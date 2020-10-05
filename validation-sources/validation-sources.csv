@@ -140,7 +140,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Financial Conduct Authority (FCA) Financial Services Register ***","https://register.fca.org.uk/","Inc","gb","","","######","2020-09-15T08:11:50Z"
 "Mutuals Public Register ***","https://mutuals.fca.org.uk/","Inc","gb","","","####, ####AAA, #####A, ###AA, ###A, ##AA, ####-##-##","2020-09-10T09:31:42Z"
 "Westchester County Clerk","https://www.westchesterclerk.com/land-records/search-land-records","QGIS","us","New York","Westchester County","######, #####, ####, ####-##-##","2020-09-18T10:41:05Z"
-"Ministry of Company Affairs (MCA) ***","http://www.mca.gov.in/mcafoportal/viewCompanyMasterData.do","Inc","in","","","A#####AA####AAA######","2020-09-09T12:40:19Z"
+"Ministry of Company Affairs (MCA) ***","http://www.mca.gov.in/mcafoportal/viewCompanyMasterData.do","Inc","in","","","A#####AA####AAA######, ######","2020-10-05T08:26:33Z"
 "Consumer Affairs Victoria (Incorporated Associations Register)","https://www.consumer.vic.gov.au/resources-and-tools/search-public-registers","QGIS","au","Victoria","","####-##-##, A#######A","2020-09-21T08:39:30Z"
 "UK Higher Educations Search","http://www.bis.gov.uk/policies/higher-education/recognised-uk-degrees","QGIS","gb","","","Government Entity","2020-09-21T15:29:32Z"
 "Center for Educational Performance and Information ","http://cepi.state.mi.us/EEM/EntitySearchQuick.aspx","QGIS","us","Michigan",""," #####, Government Entity","2020-08-25T11:43:35Z"

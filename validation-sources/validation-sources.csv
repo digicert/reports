@@ -48,7 +48,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Delaware Department of State: Division of Corporations ***","https://icis.corp.delaware.gov/Ecorp/EntitySearch/NameSearch.aspx","Inc","us","Delaware","","#######, ######","2020-10-06T07:14:34Z"
 "Pennsylvania Department of State ***","https://www.corporations.pa.gov/Search/CorpSearch","Inc","us","Pennsylvania","","#######, ######","2020-08-21T13:43:19Z"
 "Illinois Secretary of State ***","http://www.ilsos.gov/corporatellc/","Inc","us","Illinois","","########","2020-08-20T13:56:53Z"
-"Georgia Corporations Division ***","https://ecorp.sos.ga.gov/BusinessSearch","Inc","us","Georgia","","########","2020-08-20T13:22:58Z"
+"Georgia Corporations Division ***","https://ecorp.sos.ga.gov/BusinessSearch","Inc","us","Georgia","","########, #######","2020-10-06T10:15:23Z"
 "ONCorp - Electronic Due Diligence","http://www.oncorp.com/home/member_login.asp","QGIS","ca","Ontario","","","2020-09-28T11:55:27Z"
 "Washington Corporations & Charities Division (Office of the Secretary of State) ***","https://ccfs.sos.wa.gov/#/","Inc","us","Washington","","### ### ###","2020-08-24T08:09:23Z"
 "Arizona Department of State: Office of the Secretary of State (Only for trade names on EV)","https://apps.azsos.gov/apps/tntp/se.html","QGIS","us","Arizona","","#######, #######","2020-08-24T13:02:36Z"

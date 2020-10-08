@@ -773,7 +773,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Wyoming State Bar ","https://www.wyomingbar.org/","QGIS","us","Wyoming","","####-##-##, #-####","2020-09-18T10:03:13Z"
 "Wyoming Board of Certified Public Accountants","https://online.wycpaboard.org/#/VerifyLicense","QGIS","us","Wyoming","","####-##-##, ####, ###","2020-09-18T09:53:51Z"
 "Bank of Botswana","https://www.bankofbotswana.bw/content/banks-0","QGIS","bw","","","","2020-09-15T15:54:46Z"
-"National Bank of Ethiopia ","https://nbebank.com/banks/","QGIS","et","","","#### A.A.","2020-09-16T13:31:39Z"
+"National Bank of Ethiopia ","https://nbebank.com/banks/","QGIS","et","","","#### A.A., ####-##-##","2020-10-08T03:13:13Z"
 "Central Bank of The Gambia (CBG)","http://www.cbg.gm/finance_systems/banking.html ","QGIS","gm","","","####-##-##","2020-09-22T12:05:39Z"
 "The Lesotho Government Portal","https://www.gov.ls/","QGIS","ls","","","Government Entity","2020-09-03T14:48:02Z"
 "Bank of Zambia (BoZ)","http://www.boz.zm/registered-commercial-banks.htm","QGIS","zm","","","","2020-08-12T13:34:34Z"

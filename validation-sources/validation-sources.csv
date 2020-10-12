@@ -444,7 +444,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "POL-Notary Public Lookup (by The Ministry of Justice)","http://www.moj.go.jp/MINJI/DENSHIKOSHO/denshikosho2.html","QGIS","jp","","","####-##-##","2020-09-10T09:06:30Z"
 "POL-Courts in Japan (裁判所) - Japanese Judge search","http://www.courts.go.jp/","QGIS","jp","","","","2020-09-16T05:21:25Z"
 "Justice Department of Jiangsu Province","http://sft.jiangsu.gov.cn/","QGIS","cn","江苏省","","","2020-09-23T01:52:31Z"
-"Justice Department of Shanghai","http://credit.sfj.sh.gov.cn/","QGIS","cn","上海市","","#################","2020-09-23T01:38:17Z"
+"Justice Department of Shanghai","http://credit.sfj.sh.gov.cn/","QGIS","cn","上海市","","#################, ########AA#######A","2020-10-11T19:48:24Z"
 "Ministry of Finance (Registry of Companies) ***","https://www.roc.gov.bn/brunei-master/viewInstance/view.html?id=69d4905983746caca21ef29a514f879ebc18bfeb308c9426&_timestamp=8261676797287600","Inc","bn","","","AA########","2020-09-23T11:30:57Z"
 "The Institute of Chartered Accountants of India","http://www.icai.org/new_post.html","QGIS","in","","","######","2020-09-17T13:57:16Z"
 "Notaries Appointed by the Central Government","https://data.gov.in/catalog/state-wise-list-notaries-appointed-central-government","QGIS","in","","","###, ####, #####","2020-09-17T12:45:32Z"

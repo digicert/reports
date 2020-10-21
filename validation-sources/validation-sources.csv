@@ -95,6 +95,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Texas Secretary of State ***","http://direct.sos.state.tx.us/acct/acct-login.asp","Inc","us","Texas","","########, #######, #########, ####","2020-10-19T12:51:47Z"
 "Los Angeles County Registrar-Recorder/County Clerk (DBA Search)","https://apps.lavote.net/OBFR/Default.aspx","QGIS","us","California","Los Angeles County","##########","2020-08-31T07:35:47Z"
 "Australian Government Tax Agents' Board (find an accountant)","http://www.tpb.gov.au/tpb/agent_register.aspx","QGIS","au","","","#########","2020-09-21T08:23:06Z"
+"Washington State Department of Revenue (Company Search - Sole Proprietorship Status)","https://secure.dor.wa.gov/gteunauth/_/?Link=Lookup ","QGIS","us","Washington","","###-###-###","2020-10-21T16:14:35Z"
 "Companies Office (Company Search) ***","https://app.companiesoffice.govt.nz/companies/app/ui/pages/companies/search","Inc","nz","","","#####, ######, #######","2020-09-25T07:10:18Z"
 "Alameda County Clerk Recorder (DBA Search)","https://www.acgov.org/business/fictitious.htm","QGIS","us","California","Alameda County","######","2020-08-24T11:57:13Z"
 "Suruhanjaya Syarikat Malaysia (SSM) ***","https://www.ssm-einfo.my/index.php?id=login","Inc","my","","","############, ############ (#####-A)","2020-09-26T21:06:36Z"

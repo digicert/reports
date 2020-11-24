@@ -1012,7 +1012,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Insurance Authority (IA) هيئة التأمين  ","http://ia.gov.ae/en/services/registered-insurance-companies-and-related-professions","QGIS","ae","","","","2020-09-15T09:58:51Z"
 "Associação Nacional de Municípios Portugueses (A.N.M.P)","http://www.anmp.pt/anmp/pro/mun1/mun205w1.php?dis=13 ","QGIS","pt","","","Government Entity","2020-09-29T16:26:55Z"
 "España y la Administración (Entidades Locales) Local Government Entities","https://administracion.gob.es/pagFront/espanaAdmon/directorioOrganigramas/entidadesLocales/entidadesLocales.htm","QGIS","es","","","A########, Government Entity","2020-09-30T05:12:08Z"
-"España y la Administración (Comunidades Autónomas) Autonomous Communities","https://administracion.gob.es/pagFront/espanaAdmon/directorioOrganigramas/comunidadesAutonomas/comunidadesAutonomas.htm#.VG9129FybEh","QGIS","es","","","Government Entity","2020-09-15T11:50:29Z"
+"España y la Administración (Comunidades Autónomas) Autonomous Communities","https://administracion.gob.es/pagFront/espanaAdmon/directorioOrganigramas/comunidadesAutonomas/comunidadesAutonomas.htm#.VG9129FybEh","QGIS","es","","","Government Entity, A########","2020-11-24T14:18:16Z"
 "Secretaría General de Financiación Autonómica y Local (Town and City Councils)","https://serviciostelematicosext.hacienda.gob.es/sgcief/BDGEL/aspx/default.aspx","QGIS","es","","","A#######A, ####-##-##","2020-09-30T15:55:09Z"
 "Provincie West-Vlaanderen ","https://www.west-vlaanderen.be/","QGIS","be","West-Vlaanderen","","","2020-09-22T14:05:12Z"
 "Provincie Oost-Vlaanderen","https://oost-vlaanderen.be/bestuur-en-regio.html","QGIS","be","Oost-Vlaanderen","","","2020-09-22T14:02:47Z"

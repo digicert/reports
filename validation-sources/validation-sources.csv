@@ -190,6 +190,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Kansas Department of Education ","https://ksreportcard.ksde.org/default.aspx","QGIS","us","Kansas",""," Government Entity, A####","2020-09-02T12:36:19Z"
 "New Jersey Department of Education","https://homeroom5.doe.state.nj.us/directory/","QGIS","us","New Jersey","","Government Entity","2020-08-21T11:37:53Z"
 "Iowa Insurance Division","https://iid.iowa.gov/","QGIS","us","Iowa","","","2020-09-22T07:55:29Z"
+"California Department of Insurance","https://interactive.web.insurance.ca.gov/companyprofile/companyprofile","QGIS","us","California","","####-#","2020-11-24T03:09:43Z"
 "Missouri Department of Elementary & Secondary Education","http://dese.mo.gov/directory/","QGIS","us","Missouri","","Government Entity, ####, ######","2020-09-04T20:15:09Z"
 "Missouri Department of Higher Education","https://web.dhewd.mo.gov/collegedegreesearch/","QGIS","us","Missouri","","Government Entity","2020-09-04T20:24:06Z"
 "Washington State Office of the Insurance Commissioner","https://fortress.wa.gov/oic/consumertoolkit/Search.aspx","QGIS","us","Washington","","######, #####, ###","2020-09-22T16:06:32Z"

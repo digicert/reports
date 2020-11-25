@@ -1069,7 +1069,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Arizona Office - Tribal Relations","https://gotr.azgovernor.gov/gotr/demographic-analysis-reports","QGIS","us","Arizona","","Government Entity","2020-08-17T13:30:14Z"
 "Maricopa County Recorder ","https://recorder.maricopa.gov/recdocdata/","QGIS","us","Arizona","Maricopa County","###########, ####-##-##","2020-09-11T13:39:53Z"
 "California Notary Public Listing","http://www.sos.ca.gov/notary/notary-public-listing/","QGIS","us","California","","#######","2020-08-25T10:56:07Z"
-"Connecticut Insurance Department","http://www.cidverifylicense.ct.gov/CLIC/VerifyLicense.aspx","QGIS","us","Connecticut","","#####","2020-09-18T13:52:30Z"
+"Connecticut Insurance Department","http://www.cidverifylicense.ct.gov/CLIC/VerifyLicense.aspx","QGIS","us","Connecticut","","####-##-##","2020-11-25T11:31:51Z"
 "Connecticut Notary ","https://www.elicense.ct.gov/Lookup/LicenseLookup.aspx","QGIS","us","Connecticut","","AAAA.#######, ####-##-##","2020-08-26T10:13:59Z"
 "Delaware Notary Public ","https://notary.delaware.gov/contact/","QGIS","us","Delaware","","","2020-09-01T07:40:47Z"
 "District of Columbia Public Schools ","http://profiles.dcps.dc.gov/","QGIS","us","District of Columbia","","Government Entity","2020-09-09T19:42:07Z"

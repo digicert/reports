@@ -315,7 +315,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Registro Nacional de Contratistas (RNC) ***","http://rncenlinea.snc.gob.ve/reportes/consulta_publica?p=1","Inc","ve","","","","2019-08-26T14:50:54Z"
 "Estonia Central Commercial Register ***","https://ariregister.rik.ee/","Inc","ee","","","########","2020-09-08T20:43:03Z"
 "Privy Council - Royal Charter","https://privycouncil.independent.gov.uk/royal-charters/list-of-charters-granted/","QGIS","gb","","","####-##-##","2020-09-15T08:14:45Z"
-"Turkish Trade Registry Gazette ***","","Inc","tr","","","","2020-11-25T04:00:26Z"
+"Turkish Trade Registry Gazette ***","https://www.ticaretsicilgazetesi.gov.tr/view/hizlierisim/unvansorgulama.php","Inc","tr","","","","2020-11-25T04:03:56Z"
 "Centralna Ewidencja i Informacja o Działalności Gospodarczej (CEIDG) ***","https://prod.ceidg.gov.pl/CEIDG/ceidg.public.ui/Search.aspx ","Inc","pl","","","#########","2020-09-28T16:58:05Z"
 "Riverside County Clerk","https://webselfservice.riversideacr.com/Web/action/ACTIONGROUP313S3","QGIS","us","California","Riverside County","A-#########","2020-08-31T09:13:37Z"
 "Abu Dhabi Department of Economic Development ***","https://www.tamm.abudhabi/services/business/ded/get-licence-details","Inc","ae","Abu Dhabi","","AA-#######","2020-10-26T02:49:31Z"

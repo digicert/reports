@@ -64,7 +64,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Companies House UK ***","https://beta.companieshouse.gov.uk/","Inc","gb","","","########, AA######","2020-10-08T09:55:19Z"
 "The Business Information System BIS (Finnish Patent and Registration Office PRH) *** ","http://www.prh.fi/en/kaupparekisteri.html","Inc","fi","","","#######-#","2020-09-09T14:17:26Z"
 "Register of Enterprises (Fyrirtækjaskrá RSK) ***","https://www.rsk.is/fyrirtaekjaskra/leit/kennitala","Inc","is","","","##########","2020-10-13T03:23:50Z"
-"Ireland Companies Registration Office ***","http://www.cro.ie/search/","Inc","ie","","","######","2020-09-23T19:22:00Z"
+"Ireland Companies Registration Office ***","http://www.cro.ie/search/","Inc","ie","","","######, ######, ####","2020-12-01T03:59:06Z"
 "Norway Brønnøysund Register Centre ***","http://w2.brreg.no/enhet/sok/","Inc","no","","","#########, ### ### ###","2020-11-06T09:24:27Z"
 "Portugal Institute of Registries and Notary (Ministry of Justice) ***","https://eportugal.gov.pt/empresas/Services/Online/Pedidos.aspx?service=PNS","Inc","pt","","","#########","2020-09-29T17:12:07Z"
 "Federal Deposit Insurance Corporation (FDIC) BankFind","https://research.fdic.gov/bankfind/","QGIS","us","","","####, #####","2020-09-23T08:10:43Z"

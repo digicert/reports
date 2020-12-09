@@ -2493,6 +2493,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Kota Serang Government Website","https://serangkota.go.id/","QGIS","id","Banten","Serang","Government Entity","2020-12-02T10:47:56Z"
 "East Java Government (Pemerintah Provinsi Jawa Timur)","http://jatimprov.go.id/","QTIS","id","Jawa Timur","","Government Entity","2020-12-02T10:48:48Z"
 "Welsh Government","https://gov.wales/","QGIS","gb","","","Government Entity","2020-12-03T20:15:13Z"
+"Qingdao Pingdu Market Supervision Administration (青岛市平度市市场监督管理局)","http://www.pingdu.gov.cn/n2/n850/n851/n858/index.html","Inc","cn","山东省","平度市","########AA########, ################AA, #################A","2020-12-09T03:12:08Z"
 "Qingdao Laixi Market Supervision Administration (青岛市莱西市市场监督管理局)","http://laixi.gov.cn/n68/n8038/index.html","Inc","cn","山东省","莱西市","########AA#A##AA#A, ################AA, #################A, ##################","2020-12-09T03:08:10Z"
 "Dalian Zhuanghe Market Supervision Administration (大连市庄河市市场监督管理局)","http://zwfw.dl.gov.cn/dlPortal/organItemList?deptCode=11210283311550675M&areaCode=210283000000","Inc","cn","辽宁省","庄河市","########AA#AAAAA##, #################A, ##################","2020-12-09T03:02:28Z"
 "Dalian Wafangdian Market Supervision Administration (大连市瓦房店市市场监督管理局)","http://www.dlwfd.gov.cn/errand/depinfo.php?depid=27&contenttype=jbxx","Inc","cn","辽宁省","瓦房店市","########AA#AAAAA##, #################A, ##################","2020-12-09T02:35:45Z"

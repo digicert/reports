@@ -175,7 +175,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Companies House Gibraltar >>>","http://www.companieshouse.gi/namesearchauth.html","Inc","gi","","","#####, ######","2020-09-21T11:12:49Z"
 "Boston City Clerk","http://www.cityofboston.gov/cityclerk/search.asp","QGIS","us","Massachusetts","Boston","AA######","2020-08-25T09:04:04Z"
 "New York State Education Department: Office of Higher Education ","http://eservices.nysed.gov/heds/directory/","QGIS","us","New York","","Government Entity","2020-09-10T09:26:23Z"
-"New York State Education Department","https://data.nysed.gov/","QGIS","us","New York","","############","2020-09-10T09:48:18Z"
+"New York State Education Department","https://data.nysed.gov/","QGIS","us","New York","","############, Government Entity","2021-01-20T15:52:33Z"
 "National Indian Gaming Commission","https://www.nigc.gov/general-counsel/gaming-ordinances","QGIS","us","","","####-##-##","2020-09-08T09:19:07Z"
 "Minnesota Department of Education","https://public.education.mn.gov/MdeOrgView/districts/index","QGIS","us","Minnesota","","Government Entity, ####-##-###, ####-##","2020-09-03T13:59:13Z"
 "Arizona Department of Education","https://azreportcards.azed.gov/","QGIS","us","Arizona","","","2020-09-23T12:26:03Z"

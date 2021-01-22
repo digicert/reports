@@ -836,7 +836,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Jersey Financial Services Commission (JFSC Companies Registry) ***","https://www.jerseyfsc.org/registry/documentsearch/","Inc","je","","","####, #####, ######","2020-09-08T12:30:36Z"
 "Ukraine Government Portal (Урядовий портал)","https://www.kmu.gov.ua/ua/catalog","QGIS","ua","","","Government Entity","2020-09-24T14:17:53Z"
 "Central Bank of Brazil (Banco Central do Brasil) ","http://www4.bcb.gov.br/fis/cosif/rest/buscar-instituicoes.asp ","QGIS","br","","","","2020-09-30T15:37:58Z"
-"Superintendencia Financiera de Colombia (SFC) Securities and Intermediaries","https://www.superfinanciera.gov.co/jsp/loader.jsf?lServicio=Publicaciones&lTipo=publicaciones&lFuncion=loadContenidoPublicacion&id=61086","QGIS","co","","","##########","2020-08-28T00:36:42Z"
+"Superintendencia Financiera de Colombia (SFC) Securities and Intermediaries","https://www.superfinanciera.gov.co/jsp/loader.jsf?lServicio=Publicaciones&lTipo=publicaciones&lFuncion=loadContenidoPublicacion&id=61086","QGIS","co","","","##########, #########-#","2021-01-22T07:01:23Z"
 "República de Costa Rica (Sitio Web Oficial)","https://presidencia.go.cr/","QGIS","cr","","","Government Entity, ####-##-##","2020-08-30T20:17:28Z"
 "Portal Oficial de la República Dominicana","http://dominicana.gob.do/","QGIS","do","","","Government Entity","2020-09-07T01:42:47Z"
 "Central Bank of Jordan (CBJ)","http://www.cbj.gov.jo/ ","QGIS","jo","","","####","2020-09-09T11:13:12Z"

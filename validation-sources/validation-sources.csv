@@ -210,7 +210,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "South Dakota Department of Education","http://doe.sd.gov/ofm/edudir.aspx","QGIS","us","South Dakota","","Government Entity","2020-09-15T10:35:03Z"
 "Centers for Medicare & Medicaid Services - Hospital Search","https://www.medicare.gov/hospitalcompare/search.html","QGIS","us","","","Government Entity","2020-09-21T08:42:36Z"
 "Tennessee Department of Education","https://k-12.education.tn.gov/sde/","QGIS","us","Tennessee","","Government Entity, #####, ####","2020-09-04T10:14:11Z"
-"National Health Service in England (NHS) Authorities and Trusts","http://www.nhs.uk/ServiceDirectories/Pages/ServiceSearchAdditional.aspx?ServiceType=Trust","QGIS","gb","","","","2019-08-28T17:29:41Z"
+"National Health Service in England (NHS) Authorities and Trusts","https://www.nhs.uk/servicedirectories/pages/nhstrustlisting.aspx","QGIS","gb","","","","2021-02-08T04:22:01Z"
 "Santa Cruz County Clerks Recorder's Office","http://sccounty01.co.santa-cruz.ca.us/clerkrecorder/Asp/FBNInquiry.asp","QGIS","us","California","Santa Cruz County","####-#######","2020-08-31T10:51:25Z"
 "Izmir Ticaret odasi (IZTO) Izmir Chamber of Commerce ","https://eoda.izto.org.tr/web/uye_firmalar_yeni.aspx?id=286 ","Inc","tr","Izmir ","","####-##-##, #######","2020-10-01T11:13:55Z"
 "New York State Government Agencies","https://www.ny.gov/agencies#all-agencies","QGIS","us","New York","","Government Entity","2020-08-19T12:27:18Z"

@@ -938,7 +938,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Federal Reserve System - National Information Center (NIC)","http://www.ffiec.gov/nicpubweb/nicweb/SearchForm.aspx","QGIS","us","","","#######, ######, #####","2021-02-19T07:15:09Z"
 "West Virginia Counties","http://www.wv.gov/local/pages/default.aspx","QGIS","us","West Virginia","","Government Entity","2020-09-17T12:37:14Z"
 "Office of the Comptroller of the Currency (OCC) Financial Institution Lists","https://www.occ.gov/topics/licensing/national-banks-fed-savings-assoc-lists/index-active-bank-lists.html","QGIS","us","","","####, #####, ######","2020-11-17T06:59:14Z"
-"Alberta Corporate Registry ***","http://www.servicealberta.gov.ab.ca/find-if-business-is-licenced.cfm","Inc","ca","Alberta","","##########, #########, AA########","2021-02-25T10:36:42Z"
+"Alberta Corporate Registry ***","http://www.servicealberta.gov.ab.ca/find-if-business-is-licenced.cfm","Inc","ca","Alberta","","##########, #########, AA########, AA#######","2021-02-26T09:30:05Z"
 "UK Police Forces","https://www.police.uk/forces/","QGIS","gb","","","Government Entity","2020-09-21T17:33:34Z"
 "UK Statute Law Database (National Archives) ","http://www.legislation.gov.uk/","QGIS","gb","","","Government Entity","2020-09-22T11:37:29Z"
 "Public Bodies (GOV.UK)","https://www.gov.uk/government/collections/public-bodies","QGIS","gb","","","Government Entity","2020-09-10T16:31:59Z"

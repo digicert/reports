@@ -1144,7 +1144,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Tajikistan State Register of Legal Entities and Individual Entrepreneurs ***","https://andoz.tj/","Inc","tj","","","##########","2020-09-28T03:48:30Z"
 "Business Register (Registro Delle Imprese) ***","http://www.registroimprese.it/","Inc","it","","","","2020-10-08T12:21:52Z"
 "European Business Register (EBR) Bolagsverket ***","https://foretagsfakta.bolagsverket.se/fpl-dft-ext-web/home.seam?cid=67691 ","Inc","se","","","######-####, ##########, ###############","2021-02-25T10:18:43Z"
-"Banque Centrale des Etats de l’Afrique de l’Ouest (BCEAO)","https://www.bceao.int/","QGIS","sn","","","","2021-02-28T17:45:13Z"
+"Banque Centrale des Etats de l’Afrique de l’Ouest (BCEAO)","https://www.bceao.int/","QGIS","sn","","","","2021-03-01T02:34:27Z"
 "Belize Companies and Corporate Affairs Registry >>> ***","http://belizecompaniesregistry.ict.gov.bz/","Inc","bz","","","","2020-09-30T09:54:03Z"
 "General Commercial Registry (G.E.MI.) ***","http://www.businessportal.gr/Page/display_page/48","Inc","gr","","","############","2020-09-22T14:59:37Z"
 "Camden County Clerk's Office (DBA) >>>","http://www.camdencounty.com/clerk/online","QGIS","us","New Jersey","Camden County","","2020-08-18T11:51:51Z"
@@ -2927,3 +2927,4 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Daegu Metropolitan City Local Government (대구광역시)","http://www.daegu.go.kr/index.do","QGIS","kr","Daegu","","Government Entity","2021-02-26T09:04:09Z"
 "Daejeon Metropolitan City Local government (대전광역시)","https://daejeon.go.kr/index.do","QGIS","kr","Daejeon","","Government Entity","2021-02-26T09:04:39Z"
 "California Department of Managed Health Care (DMHC)","https://www.dmhc.ca.gov","QGIS","us","California","","Government Entity, ### ####","2021-02-26T09:18:13Z"
+"Washoe County Government","https://www.washoecounty.us","QGIS","us","Nevada","Washoe County","Government Entity","2021-03-01T02:42:01Z"

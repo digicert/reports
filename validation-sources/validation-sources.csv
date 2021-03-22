@@ -753,7 +753,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Financial Regulatory Authority (FRA)","http://www.efsa.gov.eg/brokers/searchComp.do ","QGIS","eg","","","####-##-##","2020-09-15T09:05:46Z"
 "National Bank of Kazakhstan","http://www.nationalbank.kz/?docid=3227&switch=english","QGIS","kz","","","","2020-09-15T14:43:38Z"
 "Banque de la République du Burundi (BRB)","http://www.brb.bi/fr/content/syst%C3%A8me-financier-burundais ","QGIS","bi","","","####-##-##","2020-09-16T15:44:16Z"
-"Superintendencia de Bancos y de Otras Instituciones Financieras","http://www.superintendencia.gob.ni/consultas/instituciones ","QGIS","ni","","","AAA-AAA-AAAA-###-####, ####-##-##, AAA-AAA-AA-##-##, AA-####-##AAA: #/##/####","2021-03-19T14:55:26Z"
+"Superintendencia de Bancos y de Otras Instituciones Financieras","http://www.superintendencia.gob.ni/consultas/instituciones ","QGIS","ni","","","AAA-AAA-AAAA-###-####, ####-##-##, AAA-AAA-AA-##-##, AA-####-##AAA: #/##/####, AAA-AAA-##-####","2021-03-22T13:26:53Z"
 "Massachusetts Board of Bar Overseers","https://www.massbbo.org/bbolookup.php","QGIS","us","Massachusetts","","######, ####-##-##","2020-09-03T10:00:17Z"
 "Commonwealth of Massachusetts (Division of Professional Licensure) ","https://elicensing.mass.gov/CitizenAccess/GeneralProperty/PropertyLookUp.aspx?isLicensee=Y","QGIS","us","Massachusetts","","#####, ####, ####-##-##","2020-08-26T10:13:10Z"
 "State Bar of Michigan ","http://www.michbar.org/memberdirectory/home","QGIS","us","Michigan","","A#####, ####-##-##","2020-09-15T12:59:45Z"

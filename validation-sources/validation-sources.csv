@@ -906,6 +906,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Michigan Bureau of Professional Licensing (LARA) CPA Lookup","https://www.lara.michigan.gov/colaLicVerify/lName.jsp","QGIS","us","Michigan","","####-##-##, ##########","2020-09-03T12:11:14Z"
 "The Office of the Revisor of Statutes (Minnesota Statutes)","https://www.revisor.mn.gov/statutes/","QGIS","us","Minnesota","","Government Entity","2020-09-17T12:40:07Z"
 "Mississippi Insurance Department","https://www.mid.ms.gov/licensing-search/company-search.aspx","QGIS","us","Mississippi","","#######, #####","2020-09-22T11:12:47Z"
+"Missouri Division of Finance (Bank & Licensee Search)","https://finance.mo.gov/licensee/search ","QGIS","us","Missouri","","##-####, ####, ###","2021-03-30T09:11:48Z"
 "Missouri Division of Professional Registration - CPA ","https://pr.mo.gov/accountancy-licensee-search.asp","QGIS","us","Missouri","","##########, ####-##-##","2020-09-08T07:06:51Z"
 "Montana Association of Counties (MACo) ","http://www.mtcounties.org/counties/county-websites/","QGIS","us","Montana","","Government Entity","2020-09-08T07:29:42Z"
 "Nebraska Department of Health and Human Services (DHHS)","https://www.nebraska.gov/LISSearch/search.cgi","QGIS","us","Nebraska","","######","2020-09-08T10:03:29Z"

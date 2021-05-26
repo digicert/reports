@@ -355,7 +355,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Pennsylvania Department of State - Notary ","https://www.notaries.state.pa.us/Pages/NotarySearch.aspx","QGIS","us","Pennsylvania","","#######, ####-##-##","2020-09-16T08:09:18Z"
 "Office Marocain de la Propriété Industrielle et Commerciale (OMPIC) ***","http://www.directinfo.ma/","QGIS","ma","","","","2021-02-15T23:36:44Z"
 "National Tax Service ***","http://www.nts.go.kr","Inc","kr","","","","2020-09-30T14:09:00Z"
-"Ministry of Taxes of the Republic of Azerbaijan ***","http://www.taxes.gov.az","Inc","az","","","","2020-09-21T09:07:40Z"
+"Ministry of Taxes of the Republic of Azerbaijan ***","http://www.taxes.gov.az","Inc","az","","","##########","2021-05-26T15:41:57Z"
 "Colorado Secretary of State - Notary Verification ","https://www.sos.state.co.us/notary/pages/public/verifyNotary.xhtml","QGIS","us","Colorado","","###########, ####-##-##","2020-08-26T10:10:53Z"
 "Registro Imprese (Registry of Companies) ***","https://registroimprese.cc.sm/","Inc","sm","","","A.A.A. ###, A.A.A. #####","2020-09-21T23:08:18Z"
 "Egyptian Government Services Portal ","http://www.egypt.gov.eg/english/home.aspx","QGIS","eg","","","Government Entity, AAAAAA ###/####","2021-01-11T04:17:16Z"

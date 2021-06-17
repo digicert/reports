@@ -831,7 +831,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Australian Prudential Regulation Authority (APRA) ***","http://www.apra.gov.au/RSE/Pages/default.aspx","Inc","au","","","###########","2020-09-21T08:30:08Z"
 "Federal Ministry for Social Affairs, Health, Care and Consumer Protection - Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz ","https://www.sozialministerium.at/","QGIS","at","","","Government Entity","2021-06-10T14:25:35Z"
 "Austrian Financial Market Authority (FMA) ***","https://www.fma.gv.at/en/search-company-database/","Inc","at","","","","2020-09-21T08:03:37Z"
-"Bundesanstalt für Finanzdienstleistungsaufsicht (Federal Financial Supervisory Authority) ***","http://www.bafin.de/EN/DatenDokumente/Datenbanken/Datenbanken_node_en.html","Inc","de","","","######","2020-09-02T00:24:58Z"
+"Bundesanstalt für Finanzdienstleistungsaufsicht (Federal Financial Supervisory Authority) ***","http://www.bafin.de/EN/DatenDokumente/Datenbanken/Datenbanken_node_en.html","Inc","de","","","######, Government Entity","2021-06-16T20:51:28Z"
 "Kanton de Vaud","https://www.vd.ch/autorites/ ","QGIS","ch","Vaud","","Government Entity","2020-09-11T14:11:34Z"
 "The Central Bank of The Bahamas","https://www.centralbankbahamas.com/bank-supervision/supervised-financial-institutions","QGIS","bs","","","AAA####","2020-09-24T10:38:56Z"
 "Central Bank of Armenia (CBA)","https://www.cba.am/en/SitePages/fscfobanks.aspx ","QGIS","am","","","","2020-09-15T13:00:25Z"

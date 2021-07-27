@@ -1113,7 +1113,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Maryland Notary Public ","http://sos.maryland.gov/Notary/Pages/NotarySearch.aspx","QGIS","us","Maryland","","######, #####","2021-07-27T11:08:06Z"
 "Maryland Insurance Administration ","https://www.apps.insurance.maryland.gov/CompanyProducerInfo/InsCompanySearch.aspx?SEARCH_TYPE=T","QGIS","us","Maryland","","####-##-##","2021-07-27T11:09:40Z"
 "Massachusetts Public Notary","https://www.mass.gov/service-details/find-a-notary-public","QGIS","us","Massachusetts","","","2020-09-03T10:19:26Z"
-"Michigan Notary Search ","https://services2.sos.state.mi.us/notarysearch/Search.aspx","QGIS","us","Michigan","","####-##-##","2020-09-03T12:25:34Z"
+"Michigan Notary Search ","https://services2.sos.state.mi.us/notarysearch/Search.aspx","QGIS","us","Michigan","","####-##-##","2021-07-27T11:13:46Z"
 "Minnesota Notary Public ","https://notary.sos.state.mn.us/Search/SearchForNotary","QGIS","us","Minnesota","","####-##-##, #######, ########, #############","2020-09-03T14:25:19Z"
 "Mississippi Secretary of State - Notary Public","http://www.sos.ms.gov/Applications/Pages/Notary-Search.aspx","QGIS","us","Mississippi","","####-##-##","2020-09-04T19:40:23Z"
 "Missouri Secretary of State Notary Public","https://s1.sos.mo.gov/business/notary/Search/NotarySearch.aspx","QGIS","us","Missouri","","####-##-##, ########","2020-09-04T20:44:15Z"

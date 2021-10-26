@@ -896,6 +896,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "National Association of Insurance Commissioners (NAIC) State Based Systems","https://sbs.naic.org/solar-external-lookup/","QGIS","us","","","","2021-02-18T08:03:42Z"
 "California Department of Financial Protection and Innovation (Financial Institutions)","https://dfpi.ca.gov/licensees-and-regulated-industries/","QGIS","us","California","","####, ###","2021-10-12T16:30:51Z"
 "Connecticut Department of Banking  ","https://portal.ct.gov/DOB/Financial-Institutions-Division/FID/Financial-Institutions-in-CT","QGIS","us","Connecticut","","####-##-##","2021-04-23T11:50:54Z"
+"The Florida Office of Financial Regulation (OFR)","https://flofr.gov/sitePages/WelcomeToOnlineServices.htm","QGIS","us","Florida","","#####","2021-10-25T20:21:55Z"
 "Florida Office of Insurance Regulation (OIR)","https://floir.com/companysearch/","QGIS","us","Florida","","####-##-##","2021-07-27T10:01:37Z"
 "Georgia Office of Insurance and Safety Fire Commissioner","https://www.oci.ga.gov/Insurers/CompanySearch.aspx","QGIS","us","Georgia","","########","2021-07-27T10:23:34Z"
 "Hawaii Departments & Agencies ","https://portal.ehawaii.gov/government/departments-and-agencies/","QGIS","us","Hawaii","","Government Entity","2020-09-10T15:29:32Z"

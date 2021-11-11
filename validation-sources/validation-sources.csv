@@ -819,7 +819,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "The Lesotho Government Portal","https://www.gov.ls/","QGIS","ls","","","Government Entity","2020-09-03T14:48:02Z"
 "Bank of Zambia (BoZ)","http://www.boz.zm/registered-commercial-banks.htm","QGIS","zm","","","","2020-08-12T13:34:34Z"
 "Central Bank of Liberia (CBL)","https://cbl.org.lr/2content.php?sub=198&related=28&third=198&pg=sp&pt=Commercial%20Banks%20Information ","QGIS","lr","","","####-##-##, ####","2020-09-08T14:43:00Z"
-"Government of the Republic of Malawi","http://www.malawi.gov.mw/index.php?option=com_content&view=article&id=36&Itemid=1","QGIS","mw","","","Government Entity","2020-09-24T08:39:27Z"
+"Government of the Republic of Malawi","http://www.malawi.gov.mw/index.php","QGIS","mw","","","Government Entity","2021-11-10T20:27:01Z"
 "Bank of Namibia","https://www.bon.com.na/Bank/Banking-Supervision/The-Banking-System-in-Namibia.aspx ","QGIS","na","","","","2020-09-26T19:36:01Z"
 "Banking Regulation and Supervision Agency (BDDK)","https://www.bddk.org.tr/","QGIS","tr","","","","2020-09-28T20:17:43Z"
 "Bank of Uganda (Supervised Financial Institutions) ***","https://www.bou.or.ug/bou/bouwebsite/Supervision/supervisedinstitutions.html","Inc","ug","","","Government Entity, ####-##-##","2020-09-22T14:00:47Z"

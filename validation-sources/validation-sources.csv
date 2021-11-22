@@ -2590,7 +2590,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Chengdu Shuangliu District Market Supervision Administration (成都市双流区市场监督管理局)","http://gk.chengdu.gov.cn/govInfo/detail.action?id=16412&tn=3","Inc","cn","四川省","双流区","##################","2020-12-11T03:33:58Z"
 "Nanchang Economic and Technological Development Zone Market Supervision Administration (南昌经济技术开发区市场监督管理局)","http://ncjk.jxzwfww.gov.cn/jxzw/czbm/index.do?webId=123&orgCode=360126000201011000","Inc","cn","江西省","南昌经济技术开发区","########AA##AA#A##, #################A","2020-12-11T03:38:54Z"
 "Nanchang County Market and Quality Supervision Administration (南昌县市场和质量监督管理局)","http://ncnc.jxzwfww.gov.cn/jxzw/czbm/index.do?webId=15&orgCode=360121000201025000","Inc","cn","江西省","南昌县","#################A, ########AA##AA#A##","2020-12-11T03:51:13Z"
-"Office of the Private Education Commission","https://peso.opec.go.th/web/SchoolPublic.htm?mode=initSchoolSearch","QGIS","th","","","","2021-11-22T13:47:05Z"
+"Office of the Private Education Commission","https://peso.opec.go.th/web/SchoolPublic.htm?mode=initSchoolSearch","QGIS","th","","","","2021-11-22T13:47:16Z"
 "Handelsregisteramt des Kantons Thurgau","https://tg.chregister.ch/cr-portal/suche/suche.xhtml","Inc","ch","Thurgau","","AAA-###.###.###","2020-12-11T05:25:57Z"
 "Office of the Lieutenant Governor of Utah - Entity Registry Database","https://entityregistry.utah.gov/s/","QGIS","us","Utah","","####-##-##","2020-12-11T05:42:49Z"
 "Dipartimento per gli Affari Interni e Territoriali - Italian Territory Registry","https://dait.interno.gov.it/","QGIS","it","","","Government Entity","2020-12-15T04:58:22Z"
@@ -3477,3 +3477,4 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Shanghai Songjiang District Market Supervision Administration","http://www.songjiang.gov.cn/departPublic.html?deptcode=002041&deptname=%E5%8C%BA%E5%B8%82%E5%9C%BA%E7%9B%91%E7%AE%A1%E5%B1%80&ouguid=f51a56f5-da69-484c-9408-82b06e5a7071&deptjigounum=5233","Inc","cn","Shanghai","Songjiang District","########AA#A#A#A#A","2021-11-21T17:03:49Z"
 "Shandong Provincial Department of Civil Affairs (山东省民政厅)","http://mzt.shandong.gov.cn/col/col15337/index.html","QGIS","cn","山东省","","########AAA#######","2021-11-21T17:45:21Z"
 "Queensland Health","https://www.health.qld.gov.au/","QGIS","au","Queensland","","Government Entity","2021-11-22T01:09:56Z"
+"Spain - Depósito de Estatutos de Organizaciones Sindicales y Empresariales (Trade Union Search)","https://expinterweb.mites.gob.es/deose/publico/expedientes","Inc","es","","","########","2021-11-22T13:49:01Z"

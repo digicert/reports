@@ -1171,7 +1171,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Handelsregister ***","http://www.handelsregister.de/","Inc","de","","","","2021-03-30T07:08:03Z"
 "Tajikistan State Register of Legal Entities and Individual Entrepreneurs ***","https://andoz.tj/","Inc","tj","","","##########","2020-09-28T03:48:30Z"
 "Business Register (Registro Delle Imprese) ***","http://www.registroimprese.it/","Inc","it","","","","2021-07-15T13:32:23Z"
-"European Business Register (EBR) Bolagsverket ***","https://foretagsinfo.bolagsverket.se/sok-foretagsinformation-web/","Inc","se","","","######-####, ##########, ###############","2022-01-11T06:45:23Z"
+"European Business Register (EBR) Bolagsverket ***","https://foretagsinfo.bolagsverket.se/sok-foretagsinformation-web/","Inc","se","","","######-####, ##########, ###############","2022-01-11T06:45:51Z"
 "Banque Centrale des Etats de l’Afrique de l’Ouest (BCEAO)","https://www.bceao.int/","QGIS","sn","","","","2021-03-01T02:34:27Z"
 "Belize Companies and Corporate Affairs Registry >>> ***","http://belizecompaniesregistry.ict.gov.bz/","Inc","bz","","","","2020-09-30T09:54:03Z"
 "General Commercial Registry (G.E.MI.) ***","http://www.businessportal.gr/Page/display_page/48","Inc","gr","","","############","2020-09-22T14:59:37Z"
@@ -3561,3 +3561,4 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Monroe County Government","http://monroecounty-fl.gov/736/Departments","QGIS","us","Florida","Monroe County","Government Entity","2022-01-06T12:20:11Z"
 "City of Cleveland","https://www.clevelandohio.gov/","QGIS","us","Ohio","Cleveland","Government Entity","2022-01-06T12:17:37Z"
 "Bundesministerium der Justiz","https://www.bmj.de/DE/Startseite/Startseite_node.html","QGIS","de","","","Government Entity","2022-01-06T20:42:16Z"
+"Changzhou Zhonglou District Market Supervision Administration (常州市钟楼区市场监督管理局)","http://www.zhonglou.gov.cn/html/czzl/2021/OLCHLJQB_1223/17164.html","Inc","cn","江苏省","钟楼区","########AA##A#A###","2022-01-11T06:50:42Z"

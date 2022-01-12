@@ -1434,6 +1434,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "California Department of Education (School & University Search)","https://www.cde.ca.gov/","QGIS","us","California","","##############, Government Entity, ## ##### #######","2021-10-05T14:24:09Z"
 "Bank of Albania","https://www.bankofalbania.org/Supervision/Licensed_institutions/","QGIS","al","","","A########A","2020-09-15T12:04:50Z"
 "Companies and Intellectual Property Authority (CIPA) ***","https://www.cipa.co.bw/","Inc","bw","","","AA###########","2020-09-24T10:57:32Z"
+"UAE Ministry of Economy Company Search","http://ner.economy.gov.ae/Search_By_BN.aspx ","QGIS","ae","","","","2022-01-12T06:49:26Z"
 "Asamblea Nacional de Nicaragua (Law and Decree Search)","http://legislacion.asamblea.gob.ni/Normaweb.nsf/xpMainDIL.xsp","QGIS","ni","","","","2020-09-28T11:48:25Z"
 "Banca Centrale della Repubblica di San Marino","https://www.bcsm.sm/site/en/home/functions/registers/register-of-insurance-and-reinsurance-brokers.html","QGIS","sm","","","A-###","2020-09-21T22:03:43Z"
 "Ministry of Education - Directory of Educational Institutions","http://apps.education.gov.il/imsnet/mosdot.aspx","QGIS","il","","","######","2020-09-04T16:46:29Z"

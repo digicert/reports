@@ -1144,7 +1144,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Nebraska Notary Public","","QGIS","us","Nebraska","","","2020-09-08T10:16:39Z"
 "Nevada Notary Public","","QGIS","us","Nevada","","","2020-09-08T11:04:19Z"
 "New Hampshire Notary Public (Justices for the Peace) ","","QGIS","us","New Hampshire","","","2020-09-08T14:03:16Z"
-"New Jersey Notary Public Search","http://www.state.nj.us/treasury/revenue/notary.shtml","QGIS","us","New Jersey","","","2020-09-09T11:18:16Z"
+"New Jersey Notary Public Search","http://www.state.nj.us/treasury/revenue/notary.shtml","QGIS","us","New Jersey","","##########","2022-03-09T12:08:07Z"
 "North Carolina State Bar","http://www.ncbar.gov/gxweb/mem_search.aspx","QGIS","us","North Carolina","","####-##-##, #####","2022-03-09T09:05:41Z"
 "North Dakota Notary Public ","http://www.nd.gov/sos/notaryserv/tools/laws.html","QGIS","us","North Dakota","","","2020-09-10T14:19:53Z"
 "Ohio Notaries Public ","https://notarysearch.ohiosos.gov/ords/f?p=ENSEARCH:SEARCH:1155582421721:::1::","QGIS","us","Ohio","","####-AA-######, ####-AA-#####, ####, #####, ####-##-##","2022-03-08T19:16:46Z"

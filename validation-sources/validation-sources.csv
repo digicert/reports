@@ -1146,7 +1146,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "New Jersey Notary Public Search","http://www.state.nj.us/treasury/revenue/notary.shtml","QGIS","us","New Jersey","","","2020-09-09T11:18:16Z"
 "North Carolina State Bar","http://www.ncbar.gov/gxweb/mem_search.aspx","QGIS","us","North Carolina","","####-##-##, #####","2020-09-10T11:04:04Z"
 "North Dakota Notary Public ","http://www.nd.gov/sos/notaryserv/tools/laws.html","QGIS","us","North Dakota","","","2020-09-10T14:19:53Z"
-"Ohio Notaries Public ","https://notarysearch.ohiosos.gov/ords/f?p=ENSEARCH:SEARCH:1155582421721:::1::","QGIS","us","Ohio","","####-AA-######, ####-AA-#####, ####, #####, ####-##-##","2020-09-14T14:41:48Z"
+"Ohio Notaries Public ","https://notarysearch.ohiosos.gov/ords/f?p=ENSEARCH:SEARCH:1155582421721:::1::","QGIS","us","Ohio","","####-AA-######, ####-AA-#####, ####, #####, ####-##-##","2022-03-08T19:16:46Z"
 "Oklahoma SOS Notaries Public ","https://www.sos.ok.gov/notary/search.aspx","QGIS","us","Oklahoma","","########, ####-##-##","2022-03-08T18:57:04Z"
 "Oregon Active Notaries","https://data.oregon.gov/Business/Active-Notaries/j2pk-zk6z?category=Business&view_name=Active-Notaries","QGIS","us","Oregon","","####-##-##, #######","2022-03-08T18:48:45Z"
 "Pennsylvania Bureau of Professional & Occupational Affairs","https://www.pals.pa.gov/#/page/search","QGIS","us","Pennsylvania","","AA######A, AA######","2022-03-08T18:41:21Z"

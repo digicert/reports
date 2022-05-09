@@ -342,7 +342,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Central Registry Number System (MERSIS) ***","https://mersis.gtb.gov.tr/","Inc","tr","","","","2019-08-28T14:00:46Z"
 "Finnish Government (Valtioneuvosto)","https://valtioneuvosto.fi/en","QGIS","fi","","","Government Entity","2020-08-18T12:58:04Z"
 "Registers of Economic Entities (ARES) ***","https://wwwinfo.mfcr.cz/ares/ares_es.html.en","Inc","cz","","","########","2020-09-01T03:48:55Z"
-"Corporate and Business Registration Department ***","https://onlinesearch.mns.mu/","Inc","mu","","","A######, A#####, A####, A###, A##, A########","2022-05-08T19:33:31Z"
+"Corporate and Business Registration Department ***","https://onlinesearch.mns.mu/","Inc","mu","","","A######, A#####, A####, A###, A##, A########","2022-05-08T19:34:03Z"
 "Anguilla Commercial Registry >>>","http://www.commercialregistry.ai/acorn-welcome.html","Inc","ai","","","","2020-09-15T11:53:36Z"
 "Commonwealth of Australia (Government Departments and Agencies)","https://www.directory.gov.au/","QGIS","au","","","Government Entity, ####-##-##, AAAAAAA AAAAA AA AAAAAAAAA AAA ####","2022-03-24T20:10:11Z"
 "Ministry of Commerce and Industry - وزارة التجارة والصناعة ***","https://www.business.gov.om/wps/portal/ecr/services/findbusinessinformation/searchcompanylisting ","Inc","om","","","#######","2021-11-16T20:08:36Z"
@@ -3718,3 +3718,4 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Ministry of Finance","https://finance.gov.gy/","QGIS","gy","","","Government Entity","2022-04-29T04:16:32Z"
 "Bureau of Construction (Tokyo Metropolitan Government)","https://www.kensetsu.metro.tokyo.lg.jp/index.html","QGIS","jp","Tokyo","","Government Entity","2022-05-02T01:51:57Z"
 "Agency for Strategic planning and reforms of the Republic of Kazakhstan Bureau of National statistics","https://stat.gov.kz/jur-search/status","QGIS","kz","","","############","2022-05-05T03:30:50Z"
+"Dongshan County Market Supervision Administration（东山县市场监督管理局）","http://www.dongshandao.gov.cn/cms/html/dsxrmzf/2020-11-30/1535936592.html","Inc","cn","福建省","东山县 ","##################","2022-05-08T19:35:02Z"

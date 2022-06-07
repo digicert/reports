@@ -846,7 +846,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Bundesanstalt für Finanzdienstleistungsaufsicht (Federal Financial Supervisory Authority) ***","http://www.bafin.de/EN/DatenDokumente/Datenbanken/Datenbanken_node_en.html","Inc","de","","","######, Government Entity, ####","2021-12-09T16:49:22Z"
 "Kanton de Vaud","https://www.vd.ch/autorites/ ","QGIS","ch","Vaud","","Government Entity","2020-09-11T14:11:34Z"
 "The Central Bank of The Bahamas","https://www.centralbankbahamas.com/bank-supervision/supervised-financial-institutions","QGIS","bs","","","AAA####","2020-09-24T10:38:56Z"
-"Central Bank of Armenia (CBA)","https://www.cba.am/en/SitePages/fscfobanks.aspx ","QGIS","am","","","","2020-09-15T13:00:25Z"
+"Central Bank of Armenia (CBA)","https://www.cba.am/en/SitePages/fscfobanks.aspx ","QGIS","am","","","##, #","2022-06-07T07:23:06Z"
 "Bulgarian National Bank ","http://www.bnb.bg/RegistersAndServices/RSCIRegisters/index.htm ","QGIS","bg","","","","2020-09-22T14:20:14Z"
 "National Bank of the Kyrgyz Republic","http://www.nbkr.kg/index1.jsp?item=69&lang=ENG ","QGIS","kg","","","","2020-09-10T14:12:24Z"
 "The Republic of North Macedonia","https://vlada.mk/","QGIS","mk","","","Government Entity","2021-05-21T04:44:27Z"

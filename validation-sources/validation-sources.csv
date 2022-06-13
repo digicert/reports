@@ -160,7 +160,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "New York State Education Department: Office of the Professions (CPA Search)","http://www.op.nysed.gov/opsearches.htm","QGIS","us","New York","","####-##-##, ######","2022-03-09T09:34:45Z"
 "Orange County Clerk Recorder","https://cr.ocgov.com/FBNOnlineNet/","QGIS","us","California","Orange County","###########","2021-07-27T08:32:43Z"
 "Serbia Business Registers Agency ***","http://pretraga2.apr.gov.rs/ObjedinjenePretrage/Search/Search","Inc","rs","","","########","2020-09-29T12:28:45Z"
-"Japan Companies Registration ***","http://www1.touki.or.jp/gateway.html","Inc","jp","","","####-##-######, ############","2022-05-17T23:52:35Z"
+"Japan Companies Registration ***","http://www1.touki.or.jp/gateway.html","Inc","jp","","","####-##-######, ############","2022-06-13T03:22:14Z"
 "Illinois Secretary of State (LLP Search) ***","http://www.ilsos.gov/lprpsearch/","Inc","us","Illinois","","A######, ######","2021-07-27T10:33:32Z"
 "Heraklion Chamber for Industry and Commerce ","http://www.ebeh.gr/web/guest/home","Inc","gr","Kríti","Heraklion","############","2021-02-11T07:14:12Z"
 "Disciplinary Board of the Supreme Court of Pennsylvania","https://www.padisciplinaryboard.org/for-the-public/find-attorney","QGIS","us","Pennsylvania","","######, #####, ####-##-##","2022-03-08T18:41:59Z"
@@ -3750,3 +3750,4 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Beijing Shijingshan Market Supervision Bureau","http://www.bjsjs.gov.cn/gongkai/qscjgj/jgzn_1122/jgzz_1123/","Inc","cn","Beijing","Shijingshan District","##################","2022-06-07T01:39:23Z"
 "Zhangzhou Taiwanese Investment Zone Market Supervision Administration (漳州台商投资区市场监督管理局)","https://fdi.swt.fujian.gov.cn/show-9440.html","Inc","cn","福建省","漳州台商投资区","##################, ########AA##AA#A##","2022-06-08T22:30:45Z"
 "Shanghai Pudong New Area Market Supervision Administration","http://www.pudong.gov.cn/scjgj/","Inc","cn","Shanghai","Pudong","#################A","2022-06-08T01:36:26Z"
+"Economic Development Bureau, Kaohsiung City Government (高雄市政府經濟發展局)","https://edbkcg.kcg.gov.tw/|https://edbkcg.kcg.gov.tw/","Inc","tw","高雄市","","########","2022-06-13T09:18:54Z"

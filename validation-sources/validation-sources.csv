@@ -1147,7 +1147,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "New Hampshire Notary Public (Justices for the Peace) ","https://sos.nh.gov/administration/administration/notary-public/","QGIS","us","New Hampshire","","","2022-06-23T09:10:52Z"
 "New Jersey Notary Public Search","http://www.state.nj.us/treasury/revenue/notary.shtml","QGIS","us","New Jersey","","##########","2022-03-09T12:08:07Z"
 "North Carolina State Bar","http://www.ncbar.gov/gxweb/mem_search.aspx","QGIS","us","North Carolina","","####-##-##, #####","2022-03-09T09:05:41Z"
-"North Dakota Notary Public ","http://www.nd.gov/sos/notaryserv/tools/laws.html","QGIS","us","North Dakota","","","2020-09-10T14:19:53Z"
+"North Dakota Notary Public ","https://firststop.sos.nd.gov/search/notary","QGIS","us","North Dakota","","","2022-06-23T09:34:53Z"
 "Ohio Notaries Public ","https://notarysearch.ohiosos.gov/ords/f?p=ENSEARCH:SEARCH:1155582421721:::1::","QGIS","us","Ohio","","####-AA-######, ####-AA-#####, ####, #####, ####-##-##","2022-03-08T19:16:46Z"
 "Oklahoma SOS Notaries Public ","https://www.sos.ok.gov/notary/search.aspx","QGIS","us","Oklahoma","","########, ####-##-##","2022-03-08T18:57:04Z"
 "Oregon Active Notaries","https://data.oregon.gov/Business/Active-Notaries/j2pk-zk6z?category=Business&view_name=Active-Notaries","QGIS","us","Oregon","","####-##-##, #######","2022-03-08T18:48:45Z"

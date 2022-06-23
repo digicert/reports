@@ -1142,7 +1142,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Mississippi Secretary of State - Notary Public","https://www.sos.ms.gov/notarysearch/notarysearch.aspx","QGIS","us","Mississippi","","####-##-##","2022-05-26T15:39:14Z"
 "Missouri Secretary of State Notary Public","https://s1.sos.mo.gov/business/notary/Search/NotarySearch.aspx","QGIS","us","Missouri","","####-##-##, ########","2022-03-09T21:32:58Z"
 "Montana Secretary of State Notary Public","https://biz.sosmt.gov/search/notary","QGIS","us","Montana","","######","2022-03-09T17:26:30Z"
-"Nebraska Notary Public","","QGIS","us","Nebraska","","","2020-09-08T10:16:39Z"
+"Nebraska Notary Public","https://sos.nebraska.gov/business-services/notary-public","QGIS","us","Nebraska","","","2022-06-23T08:40:40Z"
 "Nevada Notary Public","https://www.nvsilverflume.gov/home","QGIS","us","Nevada","","","2022-06-14T15:36:51Z"
 "New Hampshire Notary Public (Justices for the Peace) ","","QGIS","us","New Hampshire","","","2020-09-08T14:03:16Z"
 "New Jersey Notary Public Search","http://www.state.nj.us/treasury/revenue/notary.shtml","QGIS","us","New Jersey","","##########","2022-03-09T12:08:07Z"

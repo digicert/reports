@@ -182,7 +182,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "National Indian Gaming Commission","https://www.nigc.gov/general-counsel/gaming-ordinances","QGIS","us","","","####-##-##","2022-03-14T08:46:58Z"
 "Minnesota Department of Education","https://public.education.mn.gov/MdeOrgView/districts/index","QGIS","us","Minnesota","","Government Entity, ####-##-###, ####-##","2022-03-09T22:16:22Z"
 "Arizona Department of Education","https://azreportcards.azed.gov/","QGIS","us","Arizona","","","2020-09-23T12:26:03Z"
-"Texas Education Agency: School District Locator + School Directory","http://tea4avholly.tea.state.tx.us/TEA.AskTED.Web/Forms/Home.aspx","QGIS","us","Texas","","#########, Government Entity, ###-###","2022-03-08T12:21:43Z"
+"Texas Education Agency: School District Locator + School Directory","https://tealprod.tea.state.tx.us/tea.askted.web/Forms/Home.aspx","QGIS","us","Texas","","#########, Government Entity, ###-###","2022-09-29T17:28:25Z"
 "Santa Barbara County Clerk - Recorder ","http://www.sbcvote.com/ClerkRecorder/FBNInquiry.aspx","QGIS","us","California","Santa Barbara County","AAA####-#######","2021-07-27T08:36:49Z"
 "Consiglio Nazionale Forense (Italy Lawyer Verification)","https://www.consiglionazionaleforense.it/","Inc","it","","","####-##-##","2020-09-24T14:55:55Z"
 "Qendra Kombetare e Regjistrimit (QKR) National Registration Center ","http://www.qkr.gov.al/kerko/kerko-ne-regjistrin-tregtar/kerko-per-subjekt/","Inc","al","","","A########A","2020-09-15T12:56:07Z"

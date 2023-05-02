@@ -355,7 +355,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Texas Notary Public Search","https://direct.sos.state.tx.us/notaries/NotarySearch.asp","QGIS","us","Texas","","####-##-##, #########, ########, #######, ######","2022-03-08T12:40:33Z"
 "Georgia Superior Court Clerks' Cooperative Authority - Notary Index ","http://search.gsccca.org/notary/search.asp","QGIS","us","Georgia","","####-##-##","2021-07-27T10:20:14Z"
 "Dubai Courts (محاكم دبي)","https://www.dc.gov.ae/PublicServices/Lawyers.jsf?lang=en","QGIS","ae","Dubai","","","2020-09-15T09:08:47Z"
-"Sharjah Economic Development Department (SEDD) ***","https://eservices.sedd.ae/eservicesweb/license-transactions/search_license/main-inq-lic.xhtml","Inc","ae","Sharjah","","","2020-09-15T10:54:24Z"
+"Sharjah Economic Development Department (SEDD) ***","https://eservices.sedd.ae/eservicesweb/license-transactions/search_license/main-inq-lic.xhtml","Inc","ae","Sharjah","","######","2023-05-02T10:41:00Z"
 "Tianjin Administration for Market Regulation (天津市市场监督管理委员会) ","http://scjg.tj.gov.cn/","Inc","cn","天津市","","########AA##AAA###, ##################, #################A, ########AA##A###A#, ########AA###AA##A, ########AA##AA#A##, ########AA##AA#A#A, ########AA##AA#A##, ########AA##A##AAA, ########AA##AAA##A, ########AA##AAA###, ########AA##AAAA#A, ################AA","2020-12-03T17:52:39Z"
 "New York Department of State, Division of Licensing Services (Notary)","https://appext20.dos.ny.gov/lcns_public/lic_name_search_frm","QGIS","us","New York","","##AA#######","2022-03-09T09:35:17Z"
 "Pennsylvania Department of State - Notary ","https://www.notaries.state.pa.us/Pages/NotarySearch.aspx","QGIS","us","Pennsylvania","","#######, ####-##-##","2022-03-08T18:40:30Z"

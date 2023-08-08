@@ -1140,7 +1140,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Louisiana Notary Public ","http://www.sos.la.gov/NotaryAndCertifications/SearchForLouisianaNotaries/Pages/default.aspx","QGIS","us","Louisiana","","####-##-##, #####","2021-07-27T10:58:30Z"
 "Maine Notary Public and Dedimus Justice Search","https://www1.maine.gov/cgi-bin/online/notary/search/search_index.pl","QGIS","us","Maine","","####-##-##","2021-07-27T11:02:35Z"
 "Maine Regulatory Licensing and Permitting","https://www.pfr.maine.gov/ALMSOnline/ALMSQuery/SearchCompany.aspx","QGIS","us","Maine","","AAA######, AAA#####","2021-07-27T11:03:48Z"
-"Maryland Notary Public ","http://sos.maryland.gov/Notary/Pages/NotarySearch.aspx","QGIS","us","Maryland","","######, #####","2021-07-27T11:08:06Z"
+"Maryland Notary Public ","https://mdsos2.my.site.com/s/search-notary-database","QGIS","us","Maryland","","######, #####","2023-08-08T09:40:49Z"
 "Maryland Insurance Administration ","https://www.apps.insurance.maryland.gov/CompanyProducerInfo/InsCompanySearch.aspx?SEARCH_TYPE=T","QGIS","us","Maryland","","####-##-##","2021-07-27T11:09:40Z"
 "Massachusetts Public Notary","https://www.mass.gov/service-details/find-a-notary-public","QGIS","us","Massachusetts","","","2020-09-03T10:19:26Z"
 "Michigan Notary Search ","https://dsvsesvc.sos.state.mi.us/TAP/_/#1","QGIS","us","Michigan","","####-##-##","2022-05-26T10:29:26Z"

@@ -191,7 +191,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Illinois State Board of Education Report Card ","http://www.illinoisreportcard.com/Default.aspx","QGIS","us","Illinois","","Government Entity","2021-07-27T10:35:11Z"
 "Texas Higher Education Coordinating Board","http://www.txhighereddata.org/Interactive/Institutions.cfm ","QGIS","us","Texas","","Government Entity","2020-09-17T09:26:27Z"
 "New York State Department of Financial Services (Insurance Company Search)","https://myportal.dfs.ny.gov/web/guest-applications/ins.-company-search","QGIS","us","New York","","####-##-##","2021-04-08T06:07:35Z"
-"Kansas Board of Regents (Colleges and Universities)","https://www.kansasregents.org/universities_colleges/public_institutions","QGIS","us","Kansas","","Government Entity","2020-09-02T11:00:27Z"
+"Kansas Board of Regents (Colleges and Universities)","https://www.kansasregents.org/universities_colleges/public-institutions/public_institutions_accessible_list","QGIS","us","Kansas","","Government Entity","2023-08-18T09:26:31Z"
 "Kansas Department of Education ","https://ksreportcard.ksde.org/default.aspx","QGIS","us","Kansas",""," Government Entity, A####","2021-07-27T10:51:05Z"
 "State Council of Higher Education for Virginia","https://www.virginia.gov/agencies/education/#paging:currentPage=0|paging:number=10","QGIS","us","Virginia","","Government Entity","2022-03-07T16:35:57Z"
 "New Jersey Department of Education","https://homeroom5.doe.state.nj.us/directory/","QGIS","us","New Jersey","","Government Entity, ####-##A","2022-03-09T11:19:09Z"

@@ -4082,3 +4082,4 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Central Bank of Ireland - NCA Register","https://registers.centralbank.ie/FirmSearchPage.aspx","NCA_REGISTER","ie","","","AAAAA-AAA-A######, AAAAA-AAA-A#####, AAAAA-AAA-A####","2023-09-18T16:36:16Z"
 "Central Bank of Iceland - NCA Register","https://en.fme.is/supervision/supervised-entities/","NCA_REGISTER","is","","","AAAAA-AAA-######-####","2023-09-18T16:36:43Z"
 "Bank of Italy - NCA Register","https://infostat.bancaditalia.it/GIAVAInquiry-public/ng/int-albi/search","NCA_REGISTER","it","","","AAAAA-AA-#####, AAAAA-AA-####","2023-09-18T16:37:12Z"
+"Financial Market Authority Liechtenstein - NCA Register","https://fmaregister.fma-li.li/search?searchText=&number=&category=3&searchInvalid=false","NCA_REGISTER","","","","AAAAA-AAA-######","2023-09-18T16:37:36Z"

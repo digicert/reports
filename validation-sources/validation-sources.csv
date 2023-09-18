@@ -366,7 +366,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Registro Imprese (Registry of Companies) ***","https://registroimprese.cc.sm/","Inc","sm","","","A.A.A. ###, A.A.A. #####, A.A.A. ####, A.A.A. ####, A.A.A. ##, AA#####","2023-09-08T08:22:29Z"
 "Swiss Bar Association (Schweizerischer Anwaltsverband) >>>","https://www.sav-fsa.ch/en/anwaltssuche.html","OGIS","ch","","","","2021-09-24T10:47:07Z"
 "Egyptian Government Services Portal ","https://digital.gov.eg/","QGIS","eg","","","Government Entity, AAAAAA ###/####","2023-09-13T05:53:12Z"
-"Central Bank of Iraq (CBI)","https://www.cbi.iq/index.php?pid=IraqFinancialInst ","QGIS","iq","","","AA/####/#, #/#/###, ###, #/#/####, AA/#/####, #/#/#####, #/####, AAAAAAA AAAAAA (#), A/###/#, ###/#/#, #/###/#/##/A","2023-08-29T11:10:24Z"
+"Central Bank of Iraq (CBI)","https://www.cbi.iq/index.php?pid=IraqFinancialInst ","QGIS","iq","","","AA/####/#, #/#/###, ###, #/#/####, AA/#/####, #/#/#####, #/####, AAAAAAA AAAAAA (#), A/###/#, ###/#/#, #/###/#/##/A, AA/####","2023-09-18T06:40:34Z"
 "Registers of Business Entities in Bosnia and Herzegovina ***","https://bizreg.pravosudje.ba/pls/apex/f?p=186:20:244882682090068::NO::P20_SEKCIJA_TIP,P20_POMOC:PRETRAGA,FALSE","QGIS","ba","","","#-#####","2023-08-29T11:10:24Z"
 "Alabama State Board of Public Accountancy","https://www.asbpa.alabama.gov/findCPA.aspx","QGIS","us","Alabama","","####, #####-A, #####, ####-##-##","2023-08-29T11:10:24Z"
 "Office of the Company Registrar ***","https://application.ocr.gov.np/CRO/faces/OnlineUserLogin.jsp","Inc","np","","","####, #####, ######, ###","2022-06-09T17:11:50Z"

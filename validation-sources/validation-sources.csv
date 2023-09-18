@@ -4096,3 +4096,4 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Bank of Slovenia - NCA Register","https://www.bsi.si/en/financial-stability/institutions-under-supervision","NCA_REGISTER","si","","","AAAAA-AA-##########","2023-09-18T16:43:19Z"
 "National Bank of Slovakia - NCA Register","https://subjekty.nbs.sk/?ll=en","NCA_REGISTER","","","","AAAAA-AAA-########","2023-09-18T16:43:49Z"
 "Financial Conduct Authority - NCA Register","https://register.fca.org.uk/","NCA_REGISTER","gb","","","AAAAA-AAA-######","2023-09-18T16:44:15Z"
+"Czech National Bank - NCA Register","https://www.cnb.cz/en/statistics/money_and_banking_stat/lists-of-institutions-for-purposes-of-monetary-and-financial-statistics/","NCA_REGISTER","cz","","","AAAAA-AAA-####, AAAAA-AAA-######, AAAAA-AAA-#######, AAAAA-AAA-########","2023-09-18T16:44:39Z"

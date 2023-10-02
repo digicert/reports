@@ -913,7 +913,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Florida Office of Insurance Regulation (OIR)","https://floir.com/companysearch/","QGIS","us","Florida","","####-##-##","2021-07-27T10:01:37Z"
 "Georgia Office of Insurance and Safety Fire Commissioner","https://www.oci.ga.gov/Insurers/CompanySearch.aspx","QGIS","us","Georgia","","########","2021-07-27T10:23:34Z"
 "Hawaii Departments & Agencies ","https://portal.ehawaii.gov/government/departments-and-agencies/","QGIS","us","Hawaii","","Government Entity","2020-09-10T15:29:32Z"
-"Idaho Department of Finance (Banks)","https://www.finance.idaho.gov/Banking/BankDetails.aspx","QGIS","us","Idaho","","####-##-##","2023-08-29T11:10:24Z"
+"Idaho Department of Finance (Banks)","https://www.finance.idaho.gov/Banking/BankDetails.aspx","QGIS","us","Idaho","","####-##-##, ###","2023-10-02T14:25:56Z"
 "Idaho State Legislature ","https://legislature.idaho.gov/statutesrules/idstat/","QGIS","us","Idaho","","##-##-###, #-###, #-####, ##-###","2021-07-27T10:29:33Z"
 "State of Idaho (Cities)","https://www.idaho.gov/cities/","QGIS","us","Idaho","","Government Entity","2020-09-04T18:22:13Z"
 "Cook County Clerk's Office","https://assumednames.cookcountyclerkil.gov/Public/Search","QGIS","us","Illinois","Cook County","A########","2021-07-27T10:31:11Z"

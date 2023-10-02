@@ -8,7 +8,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Idaho Secretary of State","https://sosbiz.idaho.gov/search/business","Inc","us","Idaho","","#####, ######, #######, ###","2022-09-07T01:38:34Z"
 "Iowa Secretary of State ***","https://sos.iowa.gov/search/business/search.aspx","Inc","us","Iowa","","######, #######, ####, #####, ####-##-##, #####","2023-05-02T12:42:18Z"
 "Kansas Secretary of State ***","https://www.kansas.gov/bess/flow/main?execution=e1s1","Inc","us","Kansas","","#######","2021-07-27T10:54:09Z"
-"Kentucky Secretary of State ***","https://web.sos.ky.gov/ftsearch/","Inc","us","Kentucky","","#######","2021-07-27T10:57:52Z"
+"Kentucky Secretary of State ***","https://web.sos.ky.gov/bussearchnprofile/search","Inc","us","Kentucky","","#######","2023-10-02T10:12:00Z"
 "Louisiana Secretary of State ***","https://coraweb.sos.la.gov/CommercialSearch/CommercialSearch.aspx","Inc","us","Louisiana","","##-####, ########A","2021-07-27T11:00:36Z"
 "State of Maine Department of the Secretary of State ***","https://icrs.informe.org/nei-sos-icrs/ICRS","Inc","us","Maine","","######## A, ########AA","2021-07-27T11:04:48Z"
 "Corporations Division (Massachusetts Secretary of the Commonwealth's Office) ***","https://corp.sec.state.ma.us/corpweb/corpsearch/CorpSearch.aspx","Inc","us","Massachusetts","","#########","2023-08-29T11:10:24Z"
@@ -4225,3 +4225,4 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "EU law (EUR-Lex)","https://eur-lex.europa.eu/advanced-search-form.html?action=update&qid=1608211064595","INTERNATIONAL","so","","","AAAAAAA AAAAAAAA ####/###/AAAA","2023-09-26T11:53:03Z"
 "Qianxinan Prefecture Xingyi Market Supervision Administration (黔西南州兴义市市场监督管理局)","https://www.gzxy.gov.cn/zwgk/17/zfgzbm/462/473/","Inc","cn","贵州省","兴义市","########AAAA#AA##A","2023-09-27T03:07:55Z"
 "Hamblen County Clerk","https://www.hamblencountyclerk.com/","QGIS","us","Tennessee","Hamblen County","","2023-10-02T07:47:46Z"
+"Government Publishing Office","https://www.govinfo.gov/","QGIS","us","","","Government Entity","2023-10-02T10:49:41Z"

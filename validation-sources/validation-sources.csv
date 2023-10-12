@@ -411,7 +411,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Centre de Formalités des Entreprises (CFE) ***","https://cfetogo.tg/","Inc","tg","","","####-##-##, ####A####, AA-AAA #### A ####","2023-04-24T07:36:39Z"
 "Supreme Court Registry ***","https://www.iros.go.kr/ifrontservlet?cmd=INSEWelcomeNseFrmC","Inc","kr","","","","2023-08-29T11:10:24Z"
 "Direktorat Jenderal Administrasi Hukum Umum ***","https://ahu.go.id/pencarian/profil-pt","Inc","id","","","AAA-AA.##.##-#######, AAA-#######.AA.##.##.AAAAA ####, A#-AA.##.##-###, AAA-#######-AA.##.## AAAAA ####, A-AA.##.##.#####, A-##### AA.##.##.AA.####, AAA-AA.##.##-###, AAA-######.AA.##.##.AAAAA ####, AAA-#####.AA.##.##.AAAAA ####","2023-05-30T18:24:31Z"
-"National Agency of Public Registry (Ministry of Justice of Georgia) ***","https://napr.gov.ge/dziebakomp","Inc","ge","","","#########, ##/##-###, ##/#-#, #A/#-##","2023-10-12T09:14:34Z"
+"National Agency of Public Registry (Ministry of Justice of Georgia) ***","https://napr.gov.ge/dziebakomp","Inc","ge","","","#########, ##/##-###, ##/#-#, #A/#-##","2023-10-12T09:37:19Z"
 "Ministry of Finance of the Republic of Kazakhstan","https://portal.goszakup.gov.kz/portal/index.php/kz/oebs/subjects","QGIS","kz","","","","2023-08-29T11:10:24Z"
 "Registro Nacional República de Costa Rica ***","https://www.rnpdigital.com/shopping/login.jspx ","Inc","cr","","","#-###-######","2023-09-26T09:39:38Z"
 "Agência Angolana de Regulação e Supervisão de Seguros","https://www.arseg.ao/","QGIS","ao","","","##/AAAAA/AA/##","2023-05-23T22:39:15Z"
@@ -4228,3 +4228,4 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Government Publishing Office","https://www.govinfo.gov/","QGIS","us","","","Government Entity","2023-10-02T10:49:41Z"
 "Ho Chi Minh City Department of Industry and Trade","https://congthuong.hochiminhcity.gov.vn/trang-chu","QGIS","vn","Ho Chi Minh City","","##-#####-##","2023-10-05T09:52:55Z"
 "Daejeon Tax Office (대전세무서 - 중구)","https://d.nts.go.kr/daejeon/ad/tsm/bassInfo.do?mi=8638","QGIS","kr","Daejeon","Jung-gu","###-##-#####","2023-10-05T18:54:52Z"
+"Tumushuk City Market Supervision and Administration Bureau（图木舒克市市场监督管理局）","https://zwfw.xjbt.gov.cn/newCms/legalPersonalService.jspx?areaId=660300&type=1","Inc","cn","新疆维吾尔自治区","图木舒克市","########AAAA#AAA##","2023-10-12T12:03:00Z"

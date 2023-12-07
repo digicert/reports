@@ -4259,3 +4259,4 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Census Geocoder","https://geocoding.geo.census.gov/geocoder/geographies/address?form","QGIS","us","","","","2023-12-07T08:13:58Z"
 "Geospatial Data Extraction Tool","https://maps.canada.ca/czs/index-en.html","QGIS","ca","","","","2023-12-07T08:17:35Z"
 "ABS Maps","https://maps.abs.gov.au/","QGIS","au","","","","2023-12-07T08:23:04Z"
+"Geographical Survey Institute","https://maps.gsi.go.jp/#5/36.104611/140.084556/&base=std&ls=std&disp=1&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1","QGIS","jp","","","","2023-12-07T08:53:31Z"

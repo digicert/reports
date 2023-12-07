@@ -4258,3 +4258,4 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Namyangju Branch Court Namyangju Registration Department (남양주지원 남양주등기과 - 남양주시)","https://uijeongbu.scourt.go.kr/jibubmgr/regofficeinfo/Regofficeinfo.work?bub_cd=214804","Inc","kr","Gyeonggi-do","Namyangju-si","######-#######","2023-12-07T03:41:12Z"
 "Census Geocoder","https://geocoding.geo.census.gov/geocoder/geographies/address?form","QGIS","us","","","","2023-12-07T08:13:58Z"
 "Geospatial Data Extraction Tool","https://maps.canada.ca/czs/index-en.html","QGIS","ca","","","","2023-12-07T08:17:35Z"
+"ABS Maps","https://maps.abs.gov.au/","QGIS","au","","","","2023-12-07T08:23:04Z"

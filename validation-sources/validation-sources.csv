@@ -2642,7 +2642,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Zhuhai Hengqin New District Administration for Industry and Commerce (珠海市横琴新区工商行政管理局)","https://www.hengqin.gov.cn/zhhqgsj/gkmlpt/content/2/2677/post_2677709.html#2311","Inc","cn","广东省","横琴新区","########AA#AAAAA#A, ########AA#AAAA#AA, ########AA###AAA#A, ########AA#AA#A###, ########AA###AA##A, ########AA##AAA##A, #################A","2023-08-29T11:10:24Z"
 "Department of Communications and Information Technology","https://www.cita.gov.mn/en/introduction","QGIS","mn","","","Government Entity","2020-12-15T05:58:27Z"
 "Regulatory Authority of Bermuda","https://www.ra.bm/","QGIS","bm","","","AAA#########-##, AA##########-##, AA##########, AA##########, AAAA######AAA#-###, ###-AAA-##","2020-12-15T10:41:55Z"
-"Reserve Bank of India – Database Warehouse","https://dbie.rbi.org.in/DBIE/MOFSelectParam.jsp","QGIS","in","","","AAAA(AA)##, AA.A.###, A.AA.#/#/#, ####-##-##, AAA.AA.#### A, AAA.AA.###A, Government Entity, AAA-###, AAA-##, AAAA(AA)AA, AAAA(AAA)/, AAAAAAA/","2023-08-04T00:08:54Z"
+"Reserve Bank of India – Database Warehouse","https://www.rbi.org.in/","QGIS","in","","","AAAA(AA)##, AA.A.###, A.AA.#/#/#, ####-##-##, AAA.AA.#### A, AAA.AA.###A, Government Entity, AAA-###, AAA-##, AAAA(AA)AA, AAAA(AAA)/, AAAAAAA/","2024-01-25T03:25:57Z"
 "Zhejiang Civil Affairs Bureau (浙江省民政厅)","https://mzt.zj.gov.cn/","QGIS","cn","浙江省","","########AA#######A, #################A","2023-08-29T11:10:24Z"
 "Kunming Panlong District Market Supervision Administration (昆明市盘龙区市场监督管理局)","https://kmpl.gov.cn/c/2020-11-20/4703037.shtml","Inc","cn","云南省","盘龙区","##################","2023-08-29T11:10:24Z"
 "Baoding Market Supervision Administration (保定市市场监督管理局)","https://scjgj.baoding.gov.cn/","Inc","cn","河北省","保定市","########AA#A#####A, ##################, ################A#, #################A, ########AA#######A, ################AA","2023-08-29T11:10:24Z"
@@ -4281,3 +4281,4 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Qinhuangdao Economic and Technological Development Zone Market Supervision and Administration Branch（秦皇岛经济技术开发区市场监督管理分局）","https://www.qetdz.gov.cn/Content/info/cid/34/id/146544","Inc","cn","河北省","秦皇岛经济技术开发区","########AA##AA#A#A","2024-01-16T20:22:23Z"
 "Marin County Fictitious Business Name Search","https://www.marincounty.org/business/resources/business-resources","QGIS","us","California","Marin County","##########","2024-01-22T08:27:28Z"
 "Gemeinde Lehre","https://openrathaus.lehre.de/","QGIS","de","Niedersachsen","Lehre","####-##-##","2024-01-24T07:09:36Z"
+"Comitato Olimpico Nazionale Italiano (CONI)","https://www.coni.it/it/","QGIS","it","","","####-##-##","2024-01-25T05:11:37Z"

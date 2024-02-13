@@ -860,7 +860,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Government of the Republic of Moldova (Guvernul Republicii Moldova)","https://gov.md/en/link-type/ministere","QGIS","md","","","Government Entity","2023-08-29T11:10:24Z"
 "National Bank of Romania (Banca Nationala a Romaniei)","https://www.bnro.ro/Registre-si-Liste-717.aspx#IC ","QGIS","ro","","","AA-AAA-##-###, AAAA-AA-##-##-####","2023-08-29T11:10:24Z"
 "Republic of Slovenia Government Communication Office (GOV.SI)  ","https://www.gov.si/en/state-authorities/","QGIS","si","","","Government Entity","2020-09-21T02:02:54Z"
-"Jersey Financial Services Commission (JFSC Companies Registry) ***","https://www.jerseyfsc.org/registry/documentsearch/","Inc","je","","","####, #####, ######","2020-09-08T12:30:36Z"
+"Jersey Financial Services Commission (JFSC Companies Registry) ***","https://www.jerseyfsc.org/registry/","Inc","je","","","####, #####, ######","2024-02-13T07:12:52Z"
 "National Bank of Ukraine (Національний банк України)","https://bank.gov.ua/ua/supervision/institutions?page=1&perPage=5&search=&status=1&uid=&suid=&date_from=&date_to=","QGIS","ua","","","######, xxxxxxxx","2022-04-03T17:57:45Z"
 "Ukraine Government Portal (Урядовий портал)","https://www.kmu.gov.ua/ua/catalog","QGIS","ua","","","Government Entity","2020-09-24T14:17:53Z"
 "Central Bank of the Republic of Uzbekistan (O‘zbekiston Respublikasi Markaziy Banki) ","https://www.cbu.uz/uzc/kreditnye-organizatsii/kommercheskie-banki/golovnye-ofisy/ ","QGIS","uz","","","## ##.##.###, ## ##.##.####","2023-08-29T11:10:24Z"

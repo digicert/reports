@@ -2645,7 +2645,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Regulatory Authority of Bermuda","https://www.ra.bm/","QGIS","bm","","","AAA#########-##, AA##########-##, AA##########, AA##########, AAAA######AAA#-###, ###-AAA-##","2024-04-05T12:26:38Z"
 "Reserve Bank of India – Database Warehouse","https://www.rbi.org.in/","QGIS","in","","","AAAA(AA)##, AA.A.###, A.AA.#/#/#, ####-##-##, AAA.AA.#### A, AAA.AA.###A, Government Entity, AAA-###, AAA-##, AAAA(AA)AA, AAAA(AAA)/, AAAAAAA/","2024-04-05T12:26:38Z"
 "Zhejiang Civil Affairs Bureau (浙江省民政厅)","https://mzt.zj.gov.cn/","QGIS","cn","浙江省","","########AA#######A, #################A","2024-04-05T12:26:38Z"
-"Kunming Panlong District Market Supervision Administration (昆明市盘龙区市场监督管理局)","https://kmpl.gov.cn/c/2020-11-20/4703037.shtml","Inc","cn","云南省","盘龙区","##################","2024-04-05T12:26:38Z"
+"Kunming Panlong District Market Supervision Administration (昆明市盘龙区市场监督管理局)","https://kmpl.gov.cn/c/2020-11-20/4703037.shtml","Inc","cn","云南省","盘龙区","##################, ########AA#AAAA##A","2024-05-13T21:13:21Z"
 "Baoding Market Supervision Administration (保定市市场监督管理局)","https://scjgj.baoding.gov.cn/","Inc","cn","河北省","保定市","########AA#A#####A, ##################, ################A#, #################A, ########AA#######A, ################AA","2024-04-05T12:26:38Z"
 "Baotou Public Institution Registration Administration (包头市事业单位登记管理局）","https://neimg.gjsy.gov.cn/baotou/","QGIS","cn","内蒙古自治区","包头市","########AA#A#####A, ##################, #################A","2024-04-05T12:26:38Z"
 "Seoul Metropolitan Government (서울특별시)","https://www.seoul.go.kr/main/index.jsp","QGIS","kr","Seoul","","Government Entity","2024-04-05T12:26:38Z"

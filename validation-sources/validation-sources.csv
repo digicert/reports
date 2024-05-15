@@ -521,7 +521,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Portal del Estado Peruano ","https://www.gob.pe/","QGIS","pe","","","Government Entity","2024-04-05T12:26:33Z"
 "Central Bank of the Russian Federation","https://www.cbr.ru/banking_sector/credit/?utm_source=w&utm_content=page","QGIS","ru","","","####-A, ####, ###","2024-04-05T12:26:33Z"
 "Government of Ireland (Government Departments)","https://www.gov.ie/en/help/departments/","QGIS","ie","","","Government Entity","2024-04-05T12:26:33Z"
-"Instituto Panemeno Autonomo Cooperativo","https://www.ipacoop.gob.pa/","QGIS","pa","","","","2023-08-29T11:10:24Z"
+"Instituto Panemeno Autonomo Cooperativo","https://www.ipacoop.gob.pa/","QGIS","pa","","","####-##-##","2024-05-15T16:43:01Z"
 "Landesregierung Nordrhein-Westfalen","https://www.land.nrw/ ","QGIS","de","Nordrhein-Westfalen","","Government Entity","2024-04-05T12:26:33Z"
 "Ministry of Trade ***","https://www.kemendag.go.id/en/perdagangan-kita/company-directory/data-center-collection","Inc","id","","","","2023-08-29T11:10:24Z"
 "The Portal of the Swiss Government - Das Portal der Schweizer Regierung ","https://www.admin.ch/gov/de/start.html","QGIS","ch","","","Government Entity, International Organization Entity","2024-04-05T12:26:33Z"

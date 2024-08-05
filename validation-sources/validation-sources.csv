@@ -297,7 +297,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Illinois - Lawyer Search","https://www.iardc.org/lawyersearch.asp","QGIS","us","Illinois","","####-##-##","2024-04-05T12:26:33Z"
 "North Dakota - Local Government","https://www.nd.gov/government/local-government/city-website-list","QGIS","us","North Dakota","","Government Entity","2024-04-05T12:26:33Z"
 "New Jersey Division of Revenue","https://www1.state.nj.us/TYTR_BRC/jsp/BRCLoginJsp.jsp ","QGIS","us","New Jersey","","#######","2024-04-05T12:26:33Z"
-"Corporate Affairs Commission (CAC) ***","https://www.cac.gov.ng ","Inc","ng","","","AA#####, #######, ######, AA###, ####, AA - ######, AA - #######","2024-06-20T08:11:56Z"
+"Corporate Affairs Commission (CAC) ***","https://post.cac.gov.ng/search/type/company","Inc","ng","","","AA#####, #######, ######, AA###, ####, AA - ######, AA - #######","2024-08-05T15:14:33Z"
 "Bundesanzeiger Verlag - Company Register","https://www.unternehmensregister.de/ureg/?submitaction=language&language=en","Inc","de","","","AAA ####, AAA #####, AAA ######, ####-##-##, Government Entity","2024-04-05T12:26:33Z"
 "Central Bank of Kenya","https://www.centralbank.go.ke/bank-supervision/ ","QGIS","ke","","","####, ####-##-##","2024-04-05T12:26:33Z"
 "The Financial Supervisory Authority of Norway (FINANSTILSYNET)","https://www.finanstilsynet.no/en/finanstilsynets-registry/ ","QGIS","no","","","#########","2024-04-05T12:26:33Z"

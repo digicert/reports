@@ -4089,7 +4089,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Estonia Financial Supervisory Authority - NCA Registry","https://www.fi.ee/en/supervised-entities","NCA_REGISTER","ee","","","AAAAA-AA-########","2024-04-05T21:33:51Z"
 "Bank of Spain - NCA Register","https://app.bde.es/ren_www/InicioSesion","NCA_REGISTER","es","","","AAAAA-AA-####","2024-04-05T21:33:51Z"
 "Finnish Financial Supervisory Authority - NCA Register","https://www.finanssivalvonta.fi/en/registers/supervised-entities/","NCA_REGISTER","fi","","","AAAAA-AAAAAA-#######-#","2024-04-05T21:33:51Z"
-"Prudential Supervisory and Resolution Authority - NCA Register","https://www.regafi.fr/spip.php?rubrique1","NCA_REGISTER","fr","","","AAAAA-AAAA-#####","2024-04-05T21:33:51Z"
+"Prudential Supervisory and Resolution Authority - NCA Register","https://www.regafi.fr/spip.php?rubrique1","NCA_REGISTER","","","","AAAAA-AAAA-#####","2024-09-05T11:58:27Z"
 "Bank of Greece - NCA Register","https://www.bankofgreece.gr/Pages/en/Supervision/SupervisedInstitutions/default.aspx","NCA_REGISTER","gr","","","AAAAA-AAA-#########","2024-04-05T21:33:51Z"
 "Croatian National Bank - NCA Register","https://www.hnb.hr/temeljne-funkcije/supervizija/popis-kreditnih-institucija","NCA_REGISTER","hr","","","AAAAA-AAA-###########, AAAAA-AAA-AAA###","2024-04-05T21:33:51Z"
 "Central Bank of Hungary - NCA Register","https://www.mnb.hu/en/supervision/licensing-and-institution-oversight/market-participants/search-of-market-participants","NCA_REGISTER","hu","","","AAAAA-AAA-A#######","2024-04-05T21:33:51Z"
@@ -4313,3 +4313,4 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Liaoning Provincial People's Government (辽宁省人民政府)","https://www.ln.gov.cn/web/index.shtml","QGIS","cn","辽宁省","","Government Entity","2024-08-28T07:29:02Z"
 "Central African Republic Government Portal","https://www.gouv.cf/","QGIS","cf","","","Government Entity","2024-08-29T18:32:14Z"
 "Stadtverwaltung Ludwigshafen","https://ludwigshafen.de/","QGIS","de","Rheinland-Pfalz","Ludwigshafen am Rhein","####-##-##","2024-08-29T18:42:16Z"
+"Changsha Municipal Administration for Market Regulation","https://amr.changsha.gov.cn/","Inc","cn","Hunan","Changsha","########AA#AAA#A#A","2024-09-05T12:50:15Z"

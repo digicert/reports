@@ -218,7 +218,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Ontario Ministry of Education","https://www.edu.gov.on.ca/eng/sift/","QGIS","ca","Ontario","","######, Government Entity, A#####","2024-04-05T12:26:33Z"
 "Wisconsin Department of Public Instruction (School Directory / Searchable Database)","https://apps6.dpi.wi.gov/SchoolDirectory/Search/PublicDistrictsSearch/","QGIS","us","Wisconsin","","####","2024-10-17T15:51:43Z"
 "Tennessee Department of Education","https://k-12.education.tn.gov/sde/","QGIS","us","Tennessee","","Government Entity, #####, ####","2024-04-05T12:26:33Z"
-"National Health Service in England (NHS) Authorities and Trusts","https://www.nhs.uk/servicedirectories/pages/nhstrustlisting.aspx","QGIS","gb","","","Government Entity","2024-04-05T12:26:33Z"
+"National Health Service in England (NHS) Authorities and Trusts","https://www.england.nhs.uk/publication/nhs-provider-directory/","QGIS","gb","","","Government Entity","2025-02-13T02:55:58Z"
 "Santa Cruz County Clerks Recorder's Office","https://sccounty01.co.santa-cruz.ca.us/clerkrecorder/Asp/FBNInquiry.asp","QGIS","us","California","Santa Cruz County","####-#######","2024-04-05T12:26:33Z"
 "Izmir Ticaret odasi (IZTO) Izmir Chamber of Commerce ","https://eoda.izto.org.tr/web/uye_firmalar_yeni.aspx?id=286 ","Inc","tr","Izmir ","","####-##-##, #######, ######","2024-04-05T12:26:33Z"
 "New York State Government Agencies","https://www.ny.gov/agencies#all-agencies","QGIS","us","New York","","Government Entity","2024-04-05T12:26:33Z"

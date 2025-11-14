@@ -3188,7 +3188,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Landkreis Heidekreis Government","https://www.heidekreis.de/home.aspx","QGIS","de","Niedersachsen","Heidekreis","Government Entity","2024-04-05T21:33:49Z"
 "Chattogram City Corporation","https://www.ccc.org.bd/","QGIS","bd","Chittagong Division","Chattogram","####","2024-04-05T21:33:49Z"
 "Ministero della Difesa","https://www.difesa.it/Pagine/default.aspx","QGIS","it","","","Government Entity","2024-04-05T21:33:49Z"
-"Ministério do Trabalho, Emprego e Segurança Social","https://www.mitess.gov.mz","QGIS","mz","","","Government Entity","2024-04-05T21:33:49Z"
+"Ministério do Trabalho, Género e Acção Social","https://www.mtgas.gov.mz/","QGIS","mz","","","Government Entity","2025-11-13T16:43:41Z"
 "Shanghai Municipal Administration of Market Supervision","https://scjgj.sh.gov.cn/zfxxgkml/","Inc","cn","Shanghai","","################AA, #################A, ##################, ########AA#AA#AA#A, ########AA#A#AA##A, ########AA#A##A##A, ########AAA#A#A##A","2025-04-23T10:01:39Z"
 "Zhengzhou Zhongyuan District Market Supervision Administration (郑州市中原区市场监督管理局)","https://zzzy.hnzwfw.gov.cn/zzzw/item/deptInfo.do?deptUnid=001003008006010003048&deptName=%E5%8C%BA%E5%B8%82%E5%9C%BA%E7%9B%91%E7%9D%A3%E7%AE%A1%E7%90%86%E5%B1%80&areaCode=410102000000&region=410102000000&creditCode=11410102MB16934437","Inc","cn","河南省","中原区","########AA#A#AA##A, ##################","2024-04-05T21:33:49Z"
 "Athens Chamber of Craft Industries","https://acsmi.gr/","Inc","gr","Attikí","Athens","############","2024-04-05T21:33:49Z"
@@ -4641,3 +4641,4 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Suzhou High-tech Zone (Huqiu District) Administrative Approval Bureau (苏州高新区（虎丘区）行政审批局)","https://www.snd.gov.cn/hqqrmzf/jgsz/202103/9e36144530eb46c280122773af4ff126.shtml","Inc","cn","江苏省","虎丘区","#################A","2025-11-10T13:17:32Z"
 "Nanjing Yuhuatai District Government Service Management Office (南京市雨花台区政务服务管理办公室)","https://www.njyh.gov.cn/zwgk/xxgkzl/xzzftygspt/xzzfztgs/202506/t20250617_5587540.html","Inc","cn","江苏省","雨花台区","########AA#AAA#A#A","2025-11-12T09:13:05Z"
 "EU law (EUR-Lex) - Georgia","https://eur-lex.europa.eu/homepage.html","INTERNATIONAL","ge","","","####-##-##","2025-11-13T13:33:02Z"
+"Ministry of Culture","https://www.culture.gov.gr/el/ministry/SitePages/supervised.aspx","QGIS","gr","","","Government Entity, AA A. ####/####","2025-11-14T15:18:43Z"

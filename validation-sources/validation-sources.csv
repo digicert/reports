@@ -3057,7 +3057,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Fujian Dehua County Market Supervision Administration (福建省德化县市场监督管理局)","https://www.dehua.gov.cn/zwgk/zfxxgkzl/bmzfxxgk/scjdglj/zfxxgkzn/","Inc","cn","福建省","德化县","##################","2024-04-05T12:26:39Z"
 "Canton Bern Lawyers & Notaries Register","https://www.belogin.directories.be.ch/eanr/publication/ui/search","QGIS","ch","Bern","","","2021-03-08T14:58:45Z"
 "Guyana - Deeds and Commercial Registry ***","https://dcra.gov.gy/","Inc","gy","","","###","2024-04-05T12:26:39Z"
-"Beijing Chaoyang District Market Supervision Administration","https://www.bjchy.gov.cn/zfxxgk/gkzn/402883c26936af6d01694bc90058001e/","Inc","cn","Beijing","Chaoyang","#################A, ##################, ########AA########, ################AA, ########AA###AA##A, ########AA##AAA#AA, ########AAAAAA##AA, ########AAA###AA##","2024-04-05T12:26:39Z"
+"Beijing Chaoyang District Market Supervision Administration","https://www.bjchy.gov.cn/zfxxgk/gkzn/402883c26936af6d01694bc90058001e/","Inc","cn","Beijing","Chaoyang","#################A, ##################, ########AA########, ################AA, ########AA###AA##A, ########AA##AAA#AA, ########AAAAAA##AA, ########AAA###AA##, ########AA#AAAAA#A","2025-12-04T02:31:05Z"
 "Jiangsu Public Institution Registration Administration (江苏省事业单位登记管理局)","https://jiangsu.gjsy.gov.cn/","QGIS","cn","江苏省","","#################A, ##################","2024-04-05T12:26:39Z"
 "People's Committee of Ho Chi Minh City","https://www.hochiminhcity.gov.vn/","QGIS","vn","Ho Chi Minh City","","Government Entity, ####/AA-AAAA","2024-04-05T12:26:39Z"
 "Nagano Prefecture Government","https://www.pref.nagano.lg.jp/","QGIS","jp","Nagano","","Government Entity","2024-04-05T12:26:39Z"
@@ -4789,3 +4789,4 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Ministère des Technologies de la Communication","https://www.mtc.gov.tn/index.php?id=1&no_cache=1&L=0","QGIS","tn","","","AAA AA.####-## AA # AAAA ####, Government Entity","2025-12-01T17:33:50Z"
 "Saudi Health Council","https://shc.gov.sa/en/NationalCommittees/Pages/default.aspx","QGIS","sa","","","Government Entity","2025-12-03T03:04:30Z"
 "San Diego County","https://www.sandiegocounty.gov/content/sdc/home.html","QGIS","us","California","San Diego County","Government Entity","2025-12-03T03:14:44Z"
+"Hunan Administration for Market Regulation","https://amr.hunan.gov.cn","Inc","cn","Hunan","","##################","2025-12-04T03:50:31Z"

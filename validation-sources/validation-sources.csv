@@ -4132,7 +4132,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "National Bank of Slovakia","https://subjekty.nbs.sk/?ll=en","NCA_REGISTER","","","","AAAAA-AAA-########","2025-11-25T22:41:41Z"
 "Financial Conduct Authority","https://register.fca.org.uk/","NCA_REGISTER","","","","AAAAA-AAA-######","2025-11-25T22:43:03Z"
 "Czech National Bank","https://www.cnb.cz/en/statistics/money_and_banking_stat/lists-of-institutions-for-purposes-of-monetary-and-financial-statistics/","NCA_REGISTER","","","","AAAAA-AAA-####, AAAAA-AAA-######, AAAAA-AAA-#######, AAAAA-AAA-########","2026-01-30T13:11:22Z"
-"Government Publishing Office - GovInfo Service","https://www.govinfo.gov/","QGIS","us","","","Government Publishing Office, ####-##-##","2026-03-25T15:56:37Z"
+"Government Publishing Office - GovInfo Service","https://www.govinfo.gov/","QGIS","us","","","Government Publishing Office, ####-##-##, Government Entity","2026-03-25T16:01:14Z"
 "Ho Chi Minh City Department of Industry and Trade","https://congthuong.hochiminhcity.gov.vn/trang-chu","QGIS","vn","Ho Chi Minh City","","##-#####-##","2024-04-05T21:33:51Z"
 "Daejeon Tax Office (대전세무서 - 중구)","https://d.nts.go.kr/daejeon/ad/tsm/bassInfo.do?mi=8638","QGIS","kr","Daejeon","Jung-gu","###-##-#####","2025-06-04T22:59:04Z"
 "Tumushuk City Market Supervision and Administration Bureau（图木舒克市市场监督管理局）","https://zwfw.xjbt.gov.cn/newCms/legalPersonalService.jspx?areaId=660300&type=1","Inc","cn","新疆维吾尔自治区","图木舒克市","########AAAA#AAA##","2024-04-05T21:33:51Z"

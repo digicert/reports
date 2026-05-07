@@ -3403,7 +3403,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Stadt Köln","https://www.stadt-koeln.de/","QGIS","de","Nordrhein-Westfalen","Köln","Government Entity","2024-04-05T21:33:50Z"
 "Montgomery County","https://www.montgomerycountymd.gov/","QGIS","us","Maryland","Montgomery County","Government Entity","2025-04-15T19:33:18Z"
 "Germany - Gewerbeschein Rossau","https://www.gemeinde-rossau.de/index.php/gewerbe/gewerbe/handel/","QGIS","de","Sachsen","Rossau","####-##-##","2024-04-05T21:33:50Z"
-"Registrar of Cooperative Societies","https://apps.moital.gov.il/CooperativeSocieties/","QGIS","il","","","#########","2026-05-07T18:05:43Z"
+"Registrar of Cooperative Societies","https://govapps.economy.gov.il/CooperativeSocieties/","QGIS","il","","","#########","2026-05-07T18:09:11Z"
 "Professional Chamber Of Piraeus","https://new.eep.gov.gr/","Inc","gr","Attikí","Pireas","############","2024-04-05T21:33:50Z"
 "Department of Local Government, Sport and Cultural Industries","https://mycouncil.wa.gov.au/","QGIS","au","Western Australia","","Government Entity","2024-04-05T21:33:50Z"
 "National Parliament of Papua New Guinea","https://www.parliament.gov.pg/bills-and-legislation)","QGIS","pg","","","Government Entity, ####-##-##","2024-04-05T21:33:50Z"
@@ -4783,3 +4783,4 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Western Australian Legislation","https://www.legislation.wa.gov.au/legislation/statutes.nsf/actsif.html","QGIS","au","Western Australia","","####-##-##","2026-05-06T11:38:34Z"
 "Office of the State Attorney General","https://osagsomalia.com/en/","QGIS","so","","","####-##-##","2026-05-07T08:27:59Z"
 "Ordos Municipal Bureau of Administrative Approval, Government Services and Data Management","https://zwfwj.ordos.gov.cn/","Inc","cn","Inner Mongolia","Ordos City","#################A","2026-05-07T15:29:24Z"
+"Ordos Municipal Bureau of Administrative Approval, Government Services and Data Management (鄂尔多斯市行政审批政务服务与数据管理局)","https://zwfwj.ordos.gov.cn/","Inc","cn","内蒙古自治区","鄂尔多斯市","#################A","2026-05-07T18:13:53Z"

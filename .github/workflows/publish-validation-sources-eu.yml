@@ -32,7 +32,7 @@ jobs:
   publish:
     name: Publish Validation Sources
     # Use digicert runner with access to internal Sourceror API
-    runs-on: ["self-hosted", "reports"]
+    runs-on: digicert-small
     
     steps:
       - name: Checkout reports repo

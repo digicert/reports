@@ -4,10 +4,10 @@ name: Publish Validation Sources
 
 on:
   # schedule:
-  #   # Run every 5 minutes during EST business hours (7am-10pm EST = 12:00-02:59 UTC)
-  #   - cron: '*/5 0-2,12-23 * * *'
-  #   # Run every 30 minutes outside EST business hours (10pm-7am EST = 03:00-11:59 UTC)
-  #   - cron: '*/30 3-11 * * *'
+  #   # Run every 5 minutes during GMT business hours (7am-7pm GMT)
+  #   - cron: '*/5 7-18 * * *'
+  #   # Run every 30 minutes outside GMT business hours (7pm-7am GMT)
+  #   - cron: '*/30 0-6,19-23 * * *'
   push:
     branches:
       - VWB-8795-create-gh-actions-public-sources-flow
@@ -24,8 +24,8 @@ permissions:
   pull-requests: write
 
 env:
-  SOURCES_PATH: validation-sources
-  CSV_FILE: validation-sources.csv
+  SOURCES_PATH: validation-sources-eu
+  CSV_FILE: validation-sources-eu.csv
   README_FILE: README.md
 
 jobs:
@@ -40,7 +40,7 @@ jobs:
         with:
           ref: master
       
-      - name: Fetch validation sources from Sourceror API - US
+      - name: Fetch validation sources from Sourceror API - EU
         id: fetch
         run: |
           echo "Fetching validation sources from Sourceror API..."
@@ -48,7 +48,7 @@ jobs:
           curl -sf \
             -H "Accept: application/json" \
             -o sources.json \
-            "${{ secrets.SOURCEROR_API_URL }}/sources/public??filter_level=ev&is_disclosed=false"
+            "${{ secrets.SOURCEROR_API_URL_EU }}/sources/public??filter_level=ev&is_disclosed=false"
           
           if [ ! -s sources.json ]; then
             echo "::error::Failed to fetch validation sources from Sourceror API"

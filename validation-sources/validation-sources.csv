@@ -1729,7 +1729,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "State Register of Accredited Branches, Representative Offices of Foreign Legal Entities","https://www.nalog.ru/eng/","QGIS","ru","","","####-##-##","2024-04-05T21:33:46Z"
 "Portal do Governo de Moçambique","https://www.portaldogoverno.gov.mz/por/Governo/","QGIS","mz","","","Government Entity","2024-04-05T21:33:46Z"
 "Hungary Office of Education (Oktatási Hivatal)","https://www.oktatas.hu/felsooktatas/kozerdeku_adatok/felsooktatasi_adatok_kozzetetele/felsooktatasi_intezmenyek/allamilag_elismert_felsookt_int","QGIS","hu","","","Government Entity","2024-04-05T21:33:46Z"
-"United States Register of Uzbekistan ***","https://fo.birdarcha.uz/pub/certificate/legal_entities/search","Inc","uz","","","######-##, ######, ########","2026-02-19T17:35:52Z"
+"United States Register of Uzbekistan ***","https://new.birdarcha.uz/check-register","Inc","uz","","","######-##, ######, ########","2026-05-28T16:00:07Z"
 "Leominster City Clerk ","https://www.leominster-ma.gov/gov/clerk/contact.asp","QGIS","us","Massachusetts","Leominster","","2025-04-15T19:33:18Z"
 "The National Bank of Cambodia","https://www.nbc.org.kh/supervision/commercial_banks.php","QGIS","kh","","","","2020-09-10T14:20:04Z"
 "The Swedish Royal Family - Royal Foundations ","https://www.kungahuset.se/monarkinhovstaterna/kungligastiftelser/kungafamiljensstiftelser.4.292a62ce13848168ac53c5f.html","QGIS","se","","","####-##-##, Government Entity","2024-04-05T21:33:46Z"
@@ -4811,3 +4811,4 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Langfang Municipal Public Institutions Registration and Management Bureau, Hebei Province (河北省廊坊市事业单位登记管理局)","https://lf.hebjgbz.gov.cn/lfbb/zzjg/nsjg/","QGIS","cn","河北省","廊坊市","#################A","2026-05-25T16:54:54Z"
 "Economic Development Bureau, Kaohsiung City Government","https://edbkcg.kcg.gov.tw/Default.aspx","Inc","tw","Kaohsiung City","","########","2026-05-27T15:31:28Z"
 "Morocco - Ministère de la Transition Numérique et de la Réforme de l'administration","https://bdj.mmsp.gov.ma/Front/fr/Accueil.aspx","QGIS","ma","","","Government Entity","2026-05-28T14:26:07Z"
+"Artush City Public Institutions Registration and Management Bureau (阿图什市事业单位登记管理局)","https://www.xjats.gov.cn//xjats/c124864/202505/d096715f7550451cb3533f4223d1dac2/files/%E4%B8%AD%E5%85%B1%E9%98%BF%E5%9B%BE%E4%BB%80%E5%B8%82%E5%A7%94%E5%91%98%E4%BC%9A%E6%9C%BA%E6%9E%84%E7%BC%96%E5%88%B6%E5%A7%94%E5%91%98%E4%BC%9A%E5%8A%9E%E5%85%AC%E5%AE%A42025%E5%B9%B4%E9%83%A8%E9%97%A8%E9%A2%84%E7%AE%97%E5%85%AC%E5%BC%80%E6%8A%A5%E5%91%8A.pdf","QGIS","cn","新疆维吾尔自治区","阿图什市","#################A","2026-05-28T16:09:47Z"

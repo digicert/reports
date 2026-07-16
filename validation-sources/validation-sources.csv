@@ -391,6 +391,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Dubai Knowledge and Human Development Authority (Education)","https://khda.gov.ae/en/directory?tab=tab-university","QGIS","ae","Dubai","","","2020-09-15T09:47:46Z"
 "Naczelna Rada Adwokacka (NRA) The Supreme Bar Council","https://rejestradwokatow.pl//adwokat/wyszukaj","QGIS","pl","","","","2020-09-29T10:39:09Z"
 "National Trade Register Office (Oficiului Național al Registrului Comerțului) ***","https://sso.onrc.ro/realms/onrc/protocol/openid-connect/auth?client_id=frontoffice-app&redirect_uri=https%3A%2F%2Fmyportal.onrc.ro%2Fproviding-information&state=ded8a171-25d1-4b1a-853f-3c00bb8e4b96&response_mode=fragment&response_type=code&scope=openid&nonce=f2512696-838a-41af-98a5-f054f2a62d50&ui_locales=ro","Inc","ro","","","A##/###/####, A##/####/####, A##/#####/####, A##/##/####, A##/#/####, A#/###/####, A#############","2025-07-04T12:21:23Z"
+"Registar udruga Republike Hrvatske - Registry of Associations of Croatia","https://registri-npo-mpu.gov.hr/#!udruge","QGIS","hr","","","","2026-07-16T15:14:35Z"
 "Chania Chamber of Commerce and Industry","https://chania-cci.gr/","Inc","gr","Kríti","Chania","############","2024-04-05T21:33:43Z"
 "Department of Commerce, MOEA","https://findbiz.nat.gov.tw/fts/query/QueryBar/queryInit.do?request_locale=en","Inc","tw","","","########","2024-04-05T21:33:43Z"
 "Arizona Secretary of State Notary Public ","https://apps.azsos.gov/apps/notary/search/Default.aspx","QGIS","us","Arizona","","#########, ######","2025-04-15T19:33:18Z"

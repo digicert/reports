@@ -446,7 +446,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "Registre du Commerce et du Crédit Mobilier ***(Inc)","https://www.cepici.gouv.ci/","Inc","ci","","","AA-AAA-####-A-#####","2024-04-05T12:26:33Z"
 "Ministry of Commerce and Industry ***","https://mc.gov.sa/en/Pages/default.aspx","Inc","sa","","","##########, ####-##-##","2024-04-05T12:26:33Z"
 "Australian Charities and Not-for-profits Commission (ACNC) ***","https://www.acnc.gov.au/charity ","Inc","au","","","###########, ####-##-##","2026-01-20T03:23:03Z"
-"Government of Saint Lucia - Registry of Companies and Intellectual Property (ROCIP)","https://digigov.govt.lc/portal/mvvmc/eservices/sldgPublicPortal.public.eservices#","Inc","lc","","","####/A###, A### AA ####, ####/A####","2026-07-20T05:38:29Z"
+"Government of Saint Lucia - Registry of Companies and Intellectual Property (ROCIP)","https://digigov.govt.lc/portal/mvvmc/eservices/sldgPublicPortal.public.eservices#","Inc","lc","","","####/A###, A### AA ####, ####/A####","2026-07-20T09:28:45Z"
 "Registry of International Business Companies and International Trusts ***","https://www.saintluciaifc.com/","Inc","lc","","","","2023-08-29T11:10:24Z"
 "Antalya Ticaret ve Sanayi Odası (Antalya Chamber of Commerce and Industry)","https://www.atso.org.tr/uye_sorgula/7/git.html ","QGIS","tr","Antalya","","#####, ######, AAAAAAA / #####","2025-04-22T05:02:32Z"
 "Office of the President, Islamic Republic of Afghanistan","https://president.gov.af/en/","QGIS","af","","","Government Entity","2024-04-05T12:26:33Z"
@@ -4986,3 +4986,4 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "City of Zagreb Department for Registration of Associations","https://zagreb.hr/sektor-za-udruge-i-zaklade/175669","Inc","hr","Grad Zagreb","Zagreb","########","2026-07-16T09:27:52Z"
 "Department of Expenditure","https://doe.gov.in/","QGIS","in","","","Government Entity","2026-07-17T09:27:48Z"
 "City of Roseburg","https://roseburgor.gov/","QGIS","us","Oregon","Roseburg","Government Entity","2026-07-17T11:10:25Z"
+"Zhengxiang District Market Supervision Administration (蒸湘区市场监督管理局)","https://www.zhengxiang.gov.cn/zwgk/bmxzxxgk/qscjdglj/jgxx/jgjj/20231120/i3168357.html","Inc","cn","湖南省","蒸湘区","########AA#AA#AA##","2026-07-21T07:22:47Z"

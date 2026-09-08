@@ -393,7 +393,7 @@ Name,URL,Category,Country,State/Province,Locality,Registration Scheme,Last Updat
 "National Trade Register Office (Oficiului Național al Registrului Comerțului) ***","https://sso.onrc.ro/realms/onrc/protocol/openid-connect/auth?client_id=frontoffice-app&redirect_uri=https%3A%2F%2Fmyportal.onrc.ro%2Fproviding-information&state=ded8a171-25d1-4b1a-853f-3c00bb8e4b96&response_mode=fragment&response_type=code&scope=openid&nonce=f2512696-838a-41af-98a5-f054f2a62d50&ui_locales=ro","Inc","ro","","","A##/###/####, A##/####/####, A##/#####/####, A##/##/####, A##/#/####, A#/###/####, A#############","2025-07-04T06:20:50Z"
 "Registar udruga Republike Hrvatske - Registry of Associations of Croatia","https://registri-npo-mpu.gov.hr/#!udruge","QGIS","hr","","","","2026-07-16T09:14:30Z"
 "Chania Chamber of Commerce and Industry","https://chania-cci.gr/","Inc","gr","Kríti","Chania","############","2024-04-05T12:26:33Z"
-"Department of Commerce, MOEA","https://findbiz.nat.gov.tw/fts/query/QueryBar/queryInit.do?request_locale=en","Inc","tw","","","########","2024-04-05T12:26:33Z"
+"Administration of Commerce, MOEA","https://findbiz.nat.gov.tw/fts/query/QueryBar/queryInit.do?request_locale=en","Inc","tw","","","########","2026-09-08T11:49:25Z"
 "Arizona Secretary of State Notary Public ","https://apps.azsos.gov/apps/notary/search/Default.aspx","QGIS","us","Arizona","","#########, ######","2025-04-15T11:01:46Z"
 "Patents and Companies Registration Agency (PACRA) ***","https://www.pacra.org.zm","Inc","zm","","","############","2024-04-05T12:26:33Z"
 "National Bank of Georgia","https://nbg.gov.ge/en/page/licensed-commercial-banks-1","QGIS","ge","","","####-##-##, A###, A###-#, A###, A#######, A##","2024-04-05T12:26:33Z"
